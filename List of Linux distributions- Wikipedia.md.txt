@@ -1,0 +1,2326 @@
+ List of Linux distributions - Wikipedia (function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 vector-feature-night-mode-enabled skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=(\[^;\]+)/);if(cookie){cookie\[1\].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|\[^\\w-\]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":\["",""\],"wgDigitTransformTable":\["",""\],"wgDefaultDateFormat":"dmy", "wgMonthNames":\["","January","February","March","April","May","June","July","August","September","October","November","December"\],"wgRequestId":"4dcb1224-5934-4bbe-b65f-4d4cbad96e23","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List\_of\_Linux\_distributions","wgTitle":"List of Linux distributions","wgCurRevisionId":1271735121,"wgRevisionId":1271735121,"wgArticleId":620709,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":\["\*"\],"wgCategories":\["CS1 Russian-language sources (ru)","Webarchive template wayback links","CS1: unfit URL","CS1 errors: generic name","Articles with short description","Short description is different from Wikidata","Wikipedia pending changes protected pages","Articles lacking reliable references from February 2018","All articles lacking reliable references","Articles needing cleanup from February 2018","All pages needing cleanup", "Cleanup tagged articles with a reason field from February 2018","Wikipedia pages needing cleanup from February 2018","Articles with multiple maintenance issues","Linux distributions","Lists of operating systems"\],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"List\_of\_Linux\_distributions","wgRelevantArticleId":620709,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":\[\],"wgRestrictionMove":\[\],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgStableRevisionId":1271735121,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":90000, "wgRelatedArticlesCompat":\[\],"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q726392","wgCheckUserClientHintsHeadersJsApi":\["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"\],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.wikimediamessages.styles":"ready", "ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=\["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"\]; (RLQ=window.RLQ||\[\]).push(function(){mw.loader.impl(function(){return\["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\\\","watchToken":"+\\\\","csrfToken":"+\\\\"}); }\];});});                        [Jump to content](#bodyContent)
+
+ Main menu
+
+Main menu
+
+move to sidebar hide
+
+Navigation
+
+*   [Main page](/wiki/Main_Page "Visit the main page [z]")
+*   [Contents](/wiki/Wikipedia:Contents "Guides to browsing Wikipedia")
+*   [Current events](/wiki/Portal:Current_events "Articles related to current events")
+*   [Random article](/wiki/Special:Random "Visit a randomly selected article [x]")
+*   [About Wikipedia](/wiki/Wikipedia:About "Learn about Wikipedia and how it works")
+*   [Contact us](//en.wikipedia.org/wiki/Wikipedia:Contact_us "How to contact Wikipedia")
+
+Contribute
+
+*   [Help](/wiki/Help:Contents "Guidance on how to use and edit Wikipedia")
+*   [Learn to edit](/wiki/Help:Introduction "Learn how to edit Wikipedia")
+*   [Community portal](/wiki/Wikipedia:Community_portal "The hub for editors")
+*   [Recent changes](/wiki/Special:RecentChanges "A list of recent changes to Wikipedia [r]")
+*   [Upload file](/wiki/Wikipedia:File_upload_wizard "Add images or other media for use on Wikipedia")
+
+  [![](/static/images/icons/wikipedia.png) ![Wikipedia](/static/images/mobile/copyright/wikipedia-wordmark-en.svg) ![The Free Encyclopedia](/static/images/mobile/copyright/wikipedia-tagline-en.svg)](/wiki/Main_Page)
+
+[Search](/wiki/Special:Search "Search Wikipedia [f]")
+
+Search
+
+ Appearance
+
+*   [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
+*   [Create account](/w/index.php?title=Special:CreateAccount&returnto=List+of+Linux+distributions "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](/w/index.php?title=Special:UserLogin&returnto=List+of+Linux+distributions "You're encouraged to log in; however, it's not mandatory. [o]")
+
+ Personal tools
+
+*   [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en)
+*   [Create account](/w/index.php?title=Special:CreateAccount&returnto=List+of+Linux+distributions "You are encouraged to create an account and log in; however, it is not mandatory")
+*   [Log in](/w/index.php?title=Special:UserLogin&returnto=List+of+Linux+distributions "You're encouraged to log in; however, it's not mandatory. [o]")
+
+Pages for logged out editors [learn more](/wiki/Help:Introduction)
+
+*   [Contributions](/wiki/Special:MyContributions "A list of edits made from this IP address [y]")
+*   [Talk](/wiki/Special:MyTalk "Discussion about edits from this IP address [n]")
+
+Contents
+--------
+
+move to sidebar hide
+
+*   [
+    
+    (Top)
+    
+    ](#)
+*   [
+    
+    1 Debian-based
+    
+    ](#Debian-based)Toggle Debian-based subsection
+    *   [
+        
+        1.1 Ubuntu-based
+        
+        ](#Ubuntu-based)
+        *   [
+            
+            1.1.1 Current official derivatives
+            
+            ](#Current_official_derivatives)
+            
+        *   [
+            
+            1.1.2 Discontinued official derivatives
+            
+            ](#Discontinued_official_derivatives)
+            
+        *   [
+            
+            1.1.3 Unofficial derivatives
+            
+            ](#Unofficial_derivatives)
+            
+    *   [
+        
+        1.2 Knoppix-based
+        
+        ](#Knoppix-based)
+        
+*   [
+    
+    2 Pacman-based
+    
+    ](#Pacman-based)Toggle Pacman-based subsection
+    *   [
+        
+        2.1 Arch Linux-based
+        
+        ](#Arch_Linux-based)
+        
+    *   [
+        
+        2.2 Other Pacman-based
+        
+        ](#Other_Pacman-based)
+        
+*   [
+    
+    3 RPM-based
+    
+    ](#RPM-based)Toggle RPM-based subsection
+    *   [
+        
+        3.1 Fedora-based
+        
+        ](#Fedora-based)
+        *   [
+            
+            3.1.1 RHEL-based
+            
+            ](#RHEL-based)
+            
+    *   [
+        
+        3.2 openSUSE-based
+        
+        ](#openSUSE-based)
+        
+    *   [
+        
+        3.3 Mandriva-based
+        
+        ](#Mandriva-based)
+        
+    *   [
+        
+        3.4 Other RPM-based
+        
+        ](#Other_RPM-based)
+        
+*   [
+    
+    4 Gentoo-based
+    
+    ](#Gentoo-based)
+    
+*   [
+    
+    5 Slackware-based
+    
+    ](#Slackware-based)
+    
+*   [
+    
+    6 Android-based
+    
+    ](#Android-based)
+    
+*   [
+    
+    7 Source-based
+    
+    ](#Source-based)
+    
+*   [
+    
+    8 Other distributions
+    
+    ](#Other_distributions)
+    
+*   [
+    
+    9 Historical distributions
+    
+    ](#Historical_distributions)
+    
+*   [
+    
+    10 See also
+    
+    ](#See_also)
+    
+*   [
+    
+    11 References
+    
+    ](#References)
+    
+*   [
+    
+    12 External links
+    
+    ](#External_links)
+    
+
+ Toggle the table of contents
+
+List of Linux distributions
+===========================
+
+ 31 languages
+
+*   [العربية](https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%AA%D9%88%D8%B2%D9%8A%D8%B9%D8%A7%D8%AA_%D9%84%D9%8A%D9%86%D9%83%D8%B3 "قائمة توزيعات لينكس – Arabic")
+*   [বাংলা](https://bn.wikipedia.org/wiki/%E0%A6%B2%E0%A6%BF%E0%A6%A8%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%89%E0%A6%B6%E0%A6%A8%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9%E0%A7%87%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE "লিনাক্স ডিস্ট্রিবিউশনসমূহের তালিকা – Bangla")
+*   [Bosanski](https://bs.wikipedia.org/wiki/Spisak_Linux_distribucija "Spisak Linux distribucija – Bosnian")
+*   [Català](https://ca.wikipedia.org/wiki/Llista_de_distribucions_de_Linux "Llista de distribucions de Linux – Catalan")
+*   [Čeština](https://cs.wikipedia.org/wiki/Seznam_distribuc%C3%AD_Linuxu "Seznam distribucí Linuxu – Czech")
+*   [Deutsch](https://de.wikipedia.org/wiki/Liste_von_Linux-Distributionen "Liste von Linux-Distributionen – German")
+*   [Español](https://es.wikipedia.org/wiki/Anexo:Distribuciones_Linux "Anexo:Distribuciones Linux – Spanish")
+*   [فارسی](https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%AA%D9%88%D8%B2%DB%8C%D8%B9%E2%80%8C%D9%87%D8%A7%DB%8C_%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3 "فهرست توزیع‌های لینوکس – Persian")
+*   [Français](https://fr.wikipedia.org/wiki/Liste_des_distributions_GNU/Linux "Liste des distributions GNU/Linux – French")
+*   [ગુજરાતી](https://gu.wikipedia.org/wiki/%E0%AA%B2%E0%AA%BF%E0%AA%A8%E0%AA%95%E0%AB%8D%E0%AA%B8_%E0%AA%A1%E0%AA%BF%E0%AA%B8%E0%AB%8D%E0%AA%9F%E0%AB%8D%E0%AA%B0%E0%AB%80%E0%AA%AC%E0%AB%8D%E0%AA%AF%E0%AB%81%E0%AA%B6%E0%AA%A8%E0%AB%8D%E0%AA%B8%E0%AA%A8%E0%AB%80_%E0%AA%AF%E0%AA%BE%E0%AA%A6%E0%AB%80 "લિનક્સ ડિસ્ટ્રીબ્યુશન્સની યાદી – Gujarati")
+*   [हिन्दी](https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%BF%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B8_%E0%A4%B5%E0%A4%BF%E0%A4%A4%E0%A4%B0%E0%A4%A3%E0%A5%8B%E0%A4%82_%E0%A4%95%E0%A5%80_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80 "लिनक्स वितरणों की सूची – Hindi")
+*   [Bahasa Indonesia](https://id.wikipedia.org/wiki/Daftar_distribusi_Linux "Daftar distribusi Linux – Indonesian")
+*   [עברית](https://he.wikipedia.org/wiki/%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%94%D7%A4%D7%A6%D7%95%D7%AA_%D7%9C%D7%99%D7%A0%D7%95%D7%A7%D7%A1 "רשימת הפצות לינוקס – Hebrew")
+*   [Magyar](https://hu.wikipedia.org/wiki/Linux-disztrib%C3%BAci%C3%B3k_list%C3%A1ja "Linux-disztribúciók listája – Hungarian")
+*   [മലയാളം](https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B4%BF%E0%B4%A8%E0%B4%95%E0%B5%8D%E0%B4%B8%E0%B5%8D_%E0%B4%B5%E0%B4%BF%E0%B4%A4%E0%B4%B0%E0%B4%A3%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B4%B3%E0%B5%81%E0%B4%9F%E0%B5%86_%E0%B4%AA%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B4%BF%E0%B4%95 "ലിനക്സ് വിതരണങ്ങളുടെ പട്ടിക – Malayalam")
+*   [Bahasa Melayu](https://ms.wikipedia.org/wiki/Senarai_edaran_Linux "Senarai edaran Linux – Malay")
+*   [မြန်မာဘာသာ](https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%99%E1%80%BB%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9E%E1%80%B1%E1%80%AC_%E1%80%9C%E1%80%84%E1%80%BA%E1%80%B8%E1%80%94%E1%80%95%E1%80%BA%E1%80%85%E1%80%BA%E1%80%85%E1%80%94%E1%80%85%E1%80%BA%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8_%E1%80%85%E1%80%AC%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8 "အမျိုးမျိုးသော လင်းနပ်စ်စနစ်များ စာရင်း – Burmese")
+*   [Nederlands](https://nl.wikipedia.org/wiki/Lijst_van_Linuxdistributies "Lijst van Linuxdistributies – Dutch")
+*   [Plattdüütsch](https://nds.wikipedia.org/wiki/List_vun_Linux-Distributschonen "List vun Linux-Distributschonen – Low German")
+*   [Português](https://pt.wikipedia.org/wiki/Lista_de_distribui%C3%A7%C3%B5es_de_Linux "Lista de distribuições de Linux – Portuguese")
+*   [Română](https://ro.wikipedia.org/wiki/List%C4%83_a_distribu%C8%9Biilor_Linux "Listă a distribuțiilor Linux – Romanian")
+*   [සිංහල](https://si.wikipedia.org/wiki/%E0%B6%BD%E0%B7%92%E0%B6%B1%E0%B6%9A%E0%B7%8A%E0%B7%83%E0%B7%8A_%E0%B6%B6%E0%B7%99%E0%B6%AF%E0%B7%8F%E0%B7%84%E0%B7%90%E0%B6%BB%E0%B7%94%E0%B6%B8%E0%B7%8A_%E0%B6%BD%E0%B6%BA%E0%B7%92%E0%B7%83%E0%B7%8A%E0%B6%AD%E0%B7%94%E0%B7%80 "ලිනක්ස් බෙදාහැරුම් ලයිස්තුව – Sinhala")
+*   [Simple English](https://simple.wikipedia.org/wiki/List_of_Linux_distributions "List of Linux distributions – Simple English")
+*   [Slovenčina](https://sk.wikipedia.org/wiki/Zoznam_distrib%C3%BAci%C3%AD_Linuxu "Zoznam distribúcií Linuxu – Slovak")
+*   [Slovenščina](https://sl.wikipedia.org/wiki/Seznam_distribucij_Linuxa "Seznam distribucij Linuxa – Slovenian")
+*   [Suomi](https://fi.wikipedia.org/wiki/Luettelo_Linux-jakeluista "Luettelo Linux-jakeluista – Finnish")
+*   [Tagalog](https://tl.wikipedia.org/wiki/Listahan_ng_mga_distro_sa_Linux "Listahan ng mga distro sa Linux – Tagalog")
+*   [Türkçe](https://tr.wikipedia.org/wiki/Linux_da%C4%9F%C4%B1t%C4%B1mlar%C4%B1_listesi "Linux dağıtımları listesi – Turkish")
+*   [Українська](https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%B2%D1%96%D0%B2_Linux "Список дистрибутивів Linux – Ukrainian")
+*   [Tiếng Việt](https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_b%E1%BA%A3n_ph%C3%A2n_ph%E1%BB%91i_Linux "Danh sách bản phân phối Linux – Vietnamese")
+*   [中文](https://zh.wikipedia.org/wiki/Linux%E5%8F%91%E8%A1%8C%E7%89%88%E5%88%97%E8%A1%A8 "Linux发行版列表 – Chinese")
+
+[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q726392#sitelinks-wikipedia "Edit interlanguage links")
+
+*   [Article](/wiki/List_of_Linux_distributions "View the content page [c]")
+*   [Talk](/wiki/Talk:List_of_Linux_distributions "Discuss improvements to the content page [t]")
+
+ English
+
+*   [Read](/wiki/List_of_Linux_distributions)
+*   [Edit](/w/index.php?title=List_of_Linux_distributions&action=edit "Edit this page [e]")
+*   [View history](/w/index.php?title=List_of_Linux_distributions&action=history "Past revisions of this page [h]")
+
+ Tools
+
+Tools
+
+move to sidebar hide
+
+Actions
+
+*   [Read](/wiki/List_of_Linux_distributions)
+*   [Edit](/w/index.php?title=List_of_Linux_distributions&action=edit "Edit this page [e]")
+*   [View history](/w/index.php?title=List_of_Linux_distributions&action=history)
+
+General
+
+*   [What links here](/wiki/Special:WhatLinksHere/List_of_Linux_distributions "List of all English Wikipedia pages containing links to this page [j]")
+*   [Related changes](/wiki/Special:RecentChangesLinked/List_of_Linux_distributions "Recent changes in pages linked from this page [k]")
+*   [Upload file](/wiki/Wikipedia:File_Upload_Wizard "Upload files [u]")
+*   [Special pages](/wiki/Special:SpecialPages "A list of all special pages [q]")
+*   [Permanent link](/w/index.php?title=List_of_Linux_distributions&oldid=1271735121 "Permanent link to this revision of this page")
+*   [Page information](/w/index.php?title=List_of_Linux_distributions&action=info "More information about this page")
+*   [Cite this page](/w/index.php?title=Special:CiteThisPage&page=List_of_Linux_distributions&id=1271735121&wpFormIdentifier=titleform "Information on how to cite this page")
+*   [Get shortened URL](/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_Linux_distributions)
+*   [Download QR code](/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_Linux_distributions)
+
+Print/export
+
+*   [Download as PDF](/w/index.php?title=Special:DownloadAsPdf&page=List_of_Linux_distributions&action=show-download-screen "Download this page as a PDF file")
+*   [Printable version](/w/index.php?title=List_of_Linux_distributions&printable=yes "Printable version of this page [p]")
+
+In other projects
+
+*   [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q726392 "Structured data on this page hosted by Wikidata [g]")
+
+Appearance
+
+move to sidebar hide
+
+**Checked**
+
+[![Page protected with pending changes](//upload.wikimedia.org/wikipedia/en/thumb/b/b7/Pending-protection-shackle.svg/20px-Pending-protection-shackle.svg.png)](/wiki/Wikipedia:Protection_policy#pending "All edits by unregistered and new users are subject to review prior to becoming visible to unregistered users")
+
+From Wikipedia, the free encyclopedia
+
+Page version status
+-------------------
+
+This is an accepted version of this page
+
+This is the [latest accepted revision](/wiki/Wikipedia:Pending_changes "Wikipedia:Pending changes"), [reviewed](https://en.wikipedia.org/w/index.php?title=Special:Log&type=review&page=List_of_Linux_distributions) on _25 January 2025_.
+
+List of software distributions using the Linux kernel
+
+.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}.mw-parser-output .multiple-issues-text{width:95%;margin:0.2em 0}.mw-parser-output .multiple-issues-text>.mw-collapsible-content{margin-top:0.3em}.mw-parser-output .compact-ambox .ambox{border:none;border-collapse:collapse;background-color:transparent;margin:0 0 0 1.6em!important;padding:0!important;width:auto;display:block}body.mediawiki .mw-parser-output .compact-ambox .ambox.mbox-small-left{font-size:100%;width:auto;margin:0}.mw-parser-output .compact-ambox .ambox .mbox-text{padding:0!important;margin:0!important}.mw-parser-output .compact-ambox .ambox .mbox-text-span{display:list-item;line-height:1.5em;list-style-type:disc}body.skin-minerva .mw-parser-output .multiple-issues-text>.mw-collapsible-toggle,.mw-parser-output .compact-ambox .ambox .mbox-image,.mw-parser-output .compact-ambox .ambox .mbox-imageright,.mw-parser-output .compact-ambox .ambox .mbox-empty-cell,.mw-parser-output .compact-ambox .hide-when-compact{display:none}
+
+![](//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png)
+
+**This article has multiple issues.** Please help **[improve it](/wiki/Special:EditPage/List_of_Linux_distributions "Special:EditPage/List of Linux distributions")** or discuss these issues on the **[talk page](/wiki/Talk:List_of_Linux_distributions "Talk:List of Linux distributions")**. _([Learn how and when to remove these messages](/wiki/Help:Maintenance_template_removal "Help:Maintenance template removal"))_
+
+[![](//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png)](/wiki/File:Question_book-new.svg)
+
+This article **relies excessively on [references](/wiki/Wikipedia:Verifiability "Wikipedia:Verifiability") to [primary sources](/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources "Wikipedia:No original research")**. Please improve this article by adding [secondary or tertiary sources](/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources "Wikipedia:No original research").  
+_Find sources:_ ["List of Linux distributions"](https://www.google.com/search?as_eq=wikipedia&q=%22List+of+Linux+distributions%22) – [news](https://www.google.com/search?tbm=nws&q=%22List+of+Linux+distributions%22+-wikipedia&tbs=ar:1) **·** [newspapers](https://www.google.com/search?&q=%22List+of+Linux+distributions%22&tbs=bkt:s&tbm=bks) **·** [books](https://www.google.com/search?tbs=bks:1&q=%22List+of+Linux+distributions%22+-wikipedia) **·** [scholar](https://scholar.google.com/scholar?q=%22List+of+Linux+distributions%22) **·** [JSTOR](https://www.jstor.org/action/doBasicSearch?Query=%22List+of+Linux+distributions%22&acc=on&wc=on) _(February 2018)_ _([Learn how and when to remove this message](/wiki/Help:Maintenance_template_removal "Help:Maintenance template removal"))_
+
+![](//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png)
+
+This article may **require [cleanup](/wiki/Wikipedia:Cleanup "Wikipedia:Cleanup")** to meet Wikipedia's [quality standards](/wiki/Wikipedia:Manual_of_Style "Wikipedia:Manual of Style"). The specific problem is: **references need cleaning up, most are simply directory links to the distribution sites, which are handled already in the articles about them.** Please help [improve this article](/wiki/Special:EditPage/List_of_Linux_distributions "Special:EditPage/List of Linux distributions") if you can. _(February 2018)_ _([Learn how and when to remove this message](/wiki/Help:Maintenance_template_removal "Help:Maintenance template removal"))_
+
+_([Learn how and when to remove this message](/wiki/Help:Maintenance_template_removal "Help:Maintenance template removal"))_
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Linux_Distribution_Timeline.svg/220px-Linux_Distribution_Timeline.svg.png)](/wiki/File:Linux_Distribution_Timeline.svg)
+
+Timeline of the development of main Linux distributions[\[1\]](#cite_note-1)
+
+This page provides general information about notable [Linux distributions](/wiki/Linux_distribution "Linux distribution") in the form of a categorized list. Distributions are organized into sections by the major distribution or [package management system](/wiki/Package_management_system "Package management system") they are based on.
+
+Debian-based
+------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=1 "Edit section: Debian-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/69/DebianFamilyTree1210.svg/170px-DebianFamilyTree1210.svg.png)](/wiki/File:DebianFamilyTree1210.svg)
+
+Debian family tree
+
+[Debian](/wiki/Debian "Debian") (a [portmanteau](/wiki/Portmanteau "Portmanteau") of the names "Deb" and "Ian") Linux is a distribution that emphasizes [free software](/wiki/Free_software "Free software"). It supports many hardware platforms. Debian and distributions based on it use the [.deb](/wiki/Deb_(file_format) "Deb (file format)") package format[\[2\]](#cite_note-2) and the [dpkg](/wiki/Dpkg "Dpkg") package manager and its frontends (such as [apt](/wiki/APT_(software) "APT (software)") or synaptic).[\[3\]](#cite_note-3)
+
+Distribution
+
+Description
+
+[antiX](/wiki/AntiX "AntiX")
+
+A comparatively lightweight distribution suitable for older computers, while also providing [kernel](/wiki/Linux_kernel "Linux kernel") and applications, as well as updates and additions via the [Aptitude](/wiki/Aptitude_(software) "Aptitude (software)") and Debian-compatible [repositories](/wiki/Repo "Repo").
+
+[Astra Linux](/wiki/Astra_Linux "Astra Linux")
+
+A Russian distribution developed to meet the needs of the Russian army and other armed forces and intelligence agencies.[\[4\]](#cite_note-4) It provides data protection up to the level of "top secret" in Russian classified information grade. It has been officially certified by Russian Defense Ministry, Federal Service for Technical and Export Control[\[5\]](#cite_note-5) and Federal Security Service.[\[6\]](#cite_note-6)
+
+[Bharat Operating System Solutions](/wiki/Bharat_Operating_System_Solutions "Bharat Operating System Solutions") (BOSS)
+
+An Indian Linux distribution[\[7\]](#cite_note-7)
+
+[Canaima](/wiki/Canaima_(operating_system) "Canaima (operating system)")
+
+A Venezuelan Linux distribution.[\[8\]](#cite_note-8)
+
+[Corel Linux](/wiki/Corel_Linux "Corel Linux")
+
+Short-lived commercial desktop Linux distribution, bought by [Xandros](/wiki/Xandros "Xandros") Linux.[\[9\]](#cite_note-9)
+
+[CrunchBang Linux](/wiki/CrunchBang_Linux "CrunchBang Linux")
+
+A small distribution and [Live CD](/wiki/Live_CD "Live CD") based on Debian Stable, featuring the [Openbox](/wiki/Openbox "Openbox") window manager and tint2 panel with [GTK+](/wiki/GTK%2B "GTK+") applications.[\[10\]](#cite_note-10) Development has ended for CrunchBang as of February, 2015.[\[11\]](#cite_note-11)
+
+[Deepin](/wiki/Deepin "Deepin")
+
+A Chinese Linux Distribution developed by Wuhan Deepin Technology Co.
+
+[Devuan](/wiki/Devuan "Devuan")
+
+A fork of Debian begun in 2014 with the primary goal of allowing user choice in [init](/wiki/Init "Init") systems, by decoupling software packages from [systemd](/wiki/Systemd "Systemd").[\[12\]](#cite_note-12)
+
+[DoudouLinux](/wiki/DoudouLinux "DoudouLinux")
+
+A discontinued distribution intended for children.
+
+[Dreamlinux](/wiki/Dreamlinux "Dreamlinux")
+
+A discontinued Brazilian distribution.
+
+[Emdebian Grip](/wiki/Emdebian_Grip "Emdebian Grip")
+
+A small-footprint distribution based on and compatible with Debian, intended for use on resource-limited embedded systems.[\[13\]](#cite_note-13)
+
+[Finnix](/wiki/Finnix "Finnix")
+
+A small system-administration [Live CD](/wiki/Live_CD "Live CD") that is available for multiple architectures[\[14\]](#cite_note-14)
+
+[gLinux](/wiki/GLinux "GLinux")
+
+gLinux is a [Linux Distro](/wiki/Linux_distribution "Linux distribution") used for [Google](/wiki/Google "Google") Employees.
+
+[gNewSense](/wiki/GNewSense "GNewSense")
+
+Originally based on [Ubuntu](/wiki/Ubuntu "Ubuntu") and later upon [Debian](/wiki/Debian "Debian"), and developed with sponsorship from the [Free Software Foundation](/wiki/Free_Software_Foundation "Free Software Foundation"). Its goal is user-friendliness, but with all [proprietary](/wiki/Proprietary_software "Proprietary software") (e.g. [binary blobs](/wiki/Binary_blob "Binary blob")) and non-free software removed.
+
+[grml](/wiki/Grml "Grml")
+
+Live CD for system recovery[\[15\]](#cite_note-15)
+
+[HandyLinux](/wiki/HandyLinux "HandyLinux")
+
+Designed for [senior citizens](/wiki/Senior_citizen "Senior citizen") running old computers for which [Windows](/wiki/Windows "Windows") have become too slow[\[16\]](#cite_note-16)
+
+[Kali Linux](/wiki/Kali_Linux "Kali Linux")
+
+A completely customizable distribution used for penetration testing. Kali is based on Debian and is used mostly by security experts.[\[17\]](#cite_note-17) Originally named [BackTrack](/wiki/BackTrack "BackTrack") (named after the homonym class of backtracking algorithms), it is developed by [Offensive Security](/wiki/Offensive_Security "Offensive Security").[\[18\]](#cite_note-BackTrack_website-18) In March 2013, the Offensive Security team rebuilt BackTrack on Debian and released it under the name Kali Linux.[\[19\]](#cite_note-19)
+
+[Kali NetHunter](/wiki/Kali_NetHunter "Kali NetHunter")
+
+Mobile version of Kali Linux available for rooted and non-rooted devices.
+
+[Kanotix](/wiki/Kanotix "Kanotix")
+
+An installable live DVD/CD for desktop usage using KDE and LXDE, focusing on convenient scripts and [GUIs](/wiki/GUI "GUI") for ease of use.[\[20\]](#cite_note-20)
+
+[LEAF Project](/wiki/LEAF_Project "LEAF Project")
+
+The Linux Embedded Appliance Framework. A tiny primarily floppy-based distribution for routers, firewalls and other appliances.[\[21\]](#cite_note-21)
+
+[Libranet](/wiki/Libranet "Libranet")
+
+A discontinued operating system based on Debian.
+
+[LiMux](/wiki/LiMux "LiMux")
+
+An [ISO 9241](/wiki/ISO_9241 "ISO 9241") industry workplace certified Linux distribution, deployed at the [City of Munich](/wiki/Munich "Munich"), Germany.[\[22\]](#cite_note-22)
+
+[LMDE](/wiki/Linux_Mint_Debian_Edition "Linux Mint Debian Edition")
+
+A Debian-based version of [Linux Mint](/wiki/Linux_Mint "Linux Mint") that does not use any elements of [Ubuntu linux](/wiki/Ubuntu_linux "Ubuntu linux"), maintained to ensure continuity should Ubuntu stop being maintained or other issue affecting the core Mint distribution.[\[23\]](#cite_note-23)
+
+[Maemo](/wiki/Maemo "Maemo")
+
+A development platform for hand held devices such as the [Nokia N800](/wiki/Nokia_N800 "Nokia N800"), [N810](/wiki/Nokia_N810 "Nokia N810"), and [Nokia N900](/wiki/Nokia_N900 "Nokia N900") Internet Tablets and other Linux kernel–based devices.[\[24\]](#cite_note-24)
+
+[MEPIS](/wiki/MEPIS "MEPIS")
+
+A discontinued OS that focused on ease of use. Significant derivatives include [antiX](/wiki/AntiX "AntiX") and [MX Linux](/wiki/MX_Linux "MX Linux").
+
+[MintPPC](/wiki/MintPPC "MintPPC")
+
+For PowerPC computers. Although MintPPC uses some Linux Mint Debian Edition code, it is not Linux Mint.[\[25\]](#cite_note-25)
+
+[Musix GNU+Linux](/wiki/Musix_GNU%2BLinux "Musix GNU+Linux")
+
+Intended for music production, graphic design, audio, video editing, and other tasks. It is built with only [free software](/wiki/Free_software "Free software").[\[26\]](#cite_note-26)
+
+[MX Linux](/wiki/MX_Linux "MX Linux")
+
+A midweight OS based on Debian Stable with core components from [antiX](/wiki/AntiX "AntiX") and using [Xfce](/wiki/Xfce "Xfce"), offering simple configuration, high stability, solid performance and medium-sized footprint.[\[27\]](#cite_note-27)
+
+[NepaLinux](/wiki/NepaLinux "NepaLinux")
+
+A Debian- and Morphix-based distribution focused for desktop usage in Nepali language computing.[\[28\]](#cite_note-28)
+
+[OpenZaurus](/wiki/OpenZaurus "OpenZaurus")
+
+Debian packages and ROM image for the [Sharp Zaurus](/wiki/Sharp_Zaurus "Sharp Zaurus") [PDA](/wiki/Personal_digital_assistant "Personal digital assistant"). Replaced by [Ångström distribution](/wiki/%C3%85ngstr%C3%B6m_distribution "Ångström distribution").[\[29\]](#cite_note-29)
+
+[Pardus](/wiki/Pardus_(operating_system) "Pardus (operating system)")
+
+Developed by [Turkish National Research Institute of Electronics and Cryptology](/wiki/Turkish_National_Research_Institute_of_Electronics_and_Cryptology "Turkish National Research Institute of Electronics and Cryptology"). Prior to 2013 it used PISI as the package manager, with COMAR as the configuration framework. Starting with Pardus 2013, it is Debian-based.
+
+[Parrot OS](/wiki/Parrot_OS "Parrot OS")
+
+A Linux distribution based on Debian used by penetration testers.
+
+[Parsix](/wiki/Parsix "Parsix")[\[30\]](#cite_note-30)
+
+Optimized for personal computers and laptops. Built on top of Debian testing branch and comes with security support.[\[31\]](#cite_note-31)
+
+[PelicanHPC](/wiki/PelicanHPC "PelicanHPC")
+
+Dedicated to setting up a [computer cluster](/wiki/Computer_cluster "Computer cluster").[\[32\]](#cite_note-32)
+
+[PureOS](/wiki/PureOS "PureOS")
+
+A Linux distribution based on Debian with a focus on privacy, security, and convenience.[\[33\]](#cite_note-33)[\[34\]](#cite_note-34)[\[35\]](#cite_note-35)[\[36\]](#cite_note-36)
+
+[Q4OS](/wiki/Q4OS "Q4OS")
+
+A [light-weight Linux distribution](/wiki/Light-weight_Linux_distribution "Light-weight Linux distribution") with [Trinity](/wiki/Trinity_Desktop_Environment "Trinity Desktop Environment") and [Plasma](/wiki/KDE_Plasma_Workspaces "KDE Plasma Workspaces") desktop environments.[\[37\]](#cite_note-37)
+
+[Raspberry Pi OS](/wiki/Raspberry_Pi_OS "Raspberry Pi OS")
+
+Desktop-oriented distribution, formerly known as Raspbian. Developed by the [Raspberry Pi Foundation](/wiki/Raspberry_Pi_Foundation "Raspberry Pi Foundation") as the official OS for their family of low-power [Raspberry Pi](/wiki/Raspberry_Pi "Raspberry Pi") single-board computers.
+
+[SolydXK](/wiki/SolydXK "SolydXK")
+
+[Xfce](/wiki/Xfce "Xfce") and [KDE](/wiki/KDE "KDE") desktop focused on stability, security and ease of use.[\[38\]](#cite_note-38)
+
+[SparkyLinux](/wiki/SparkyLinux "SparkyLinux")
+
+A Debian-based Linux distribution which provides ready to use, out of the box operating system with a set of slightly customized lightweight desktops. Sparky is targeted to all the computer's users who want replace existing, proprietary driven OS to an open-sourced..
+
+[Sunwah Linux](/wiki/Sunwah_Linux "Sunwah Linux")
+
+A Chinese Linux distribution[\[39\]](#cite_note-39)
+
+[Tails](/wiki/Tails_(operating_system) "Tails (operating system)")
+
+Tails or The Amnesic Incognito Live System' is aimed at preserving privacy and anonymity, with all outgoing connections forced to go through [Tor](/wiki/Tor_(anonymity_network) "Tor (anonymity network)").[\[40\]](#cite_note-40)
+
+[TurnKey Linux](/wiki/TurnKey_Linux_Virtual_Appliance_Library "TurnKey Linux Virtual Appliance Library")
+
+Open source project developing a family of free, Debian-based appliances optimized for ease of use in server-type usage scenarios.[\[41\]](#cite_note-41) Based on Debian since 2012; previously based on Ubuntu.
+
+[Twister OS](/wiki/Twister_OS "Twister OS")
+
+[Raspberry Pi OS](/wiki/Raspberry_Pi_OS "Raspberry Pi OS") based distribution using [Xfce](/wiki/Xfce "Xfce") with themes based on other OSes intended for the [Raspberry Pi](/wiki/Raspberry_Pi "Raspberry Pi"), [RK3399](/wiki/Rockchip#Featured_Products "Rockchip") CPU, and [x86-64](/wiki/X86-64 "X86-64") architecture.
+
+[Univention Corporate Server](/wiki/Univention_Corporate_Server "Univention Corporate Server")
+
+Enterprise distribution with integrated IT infrastructure and identity management system by the company Univention GmbH, Germany. A full version for up to 5 users for tests and for private use can be downloaded for free.[\[42\]](#cite_note-42)
+
+[Webconverger](/wiki/Webconverger "Webconverger")
+
+[Debian Live](/wiki/Debian_Live "Debian Live")\-based browser only distribution, similar to ChromeOS. However based on [Firefox](/wiki/Firefox "Firefox") and [dwm](/wiki/Dwm "Dwm"), with no user sign-in, no special hardware required and designed for public places.[\[43\]](#cite_note-43)
+
+[Vyatta](/wiki/Vyatta "Vyatta")
+
+Commercial open source network operating system includes routing, firewall, VPN, intrusion prevention and more. Designed to be an open source Cisco replacement.[\[44\]](#cite_note-44)
+
+[VyOS](/wiki/VyOS "VyOS")
+
+Free routing platform. Because VyOS is run on standard amd64, i586 and ARM systems, it is able to be used as a router and firewall platform for cloud deployments.
+
+### Ubuntu-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=2 "Edit section: Ubuntu-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/7/79/UbuntuFamilyTree1210.svg/170px-UbuntuFamilyTree1210.svg.png)](/wiki/File:UbuntuFamilyTree1210.svg)
+
+Ubuntu family tree
+
+[Ubuntu](/wiki/Ubuntu "Ubuntu") (named after the [Nguni](/wiki/Nguni_people "Nguni people") philosophy of _[ubuntu](/wiki/Ubuntu_philosophy "Ubuntu philosophy")_) is a distribution based on Debian, designed to have regular releases, a consistent user experience and commercial support on both desktops and servers.
+
+#### Current official derivatives
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=3 "Edit section: Current official derivatives")\]
+
+These Ubuntu variants, also known as Ubuntu flavours, simply install a set of packages different from the original Ubuntu, but since they draw additional packages and updates from the same repositories as Ubuntu, all of the same software is available for each of them.[\[45\]](#cite_note-45)[\[46\]](#cite_note-46)
+
+Distribution
+
+Description
+
+[Edubuntu](/wiki/Edubuntu "Edubuntu")
+
+A complete Linux based operating system that was targeted for [primary](/wiki/Primary_education "Primary education") and [secondary education](/wiki/Secondary_education "Secondary education"). Outdated versions are freely available with community-based support. The Edubuntu community is built on the ideas enshrined in the Edubuntu Manifesto: that software, especially for education, should be available [free of charge](/wiki/Gratis_versus_Libre "Gratis versus Libre") and that software tools should be usable by people in their local language and despite any disabilities.[\[47\]](#cite_note-47)
+
+[Kubuntu](/wiki/Kubuntu "Kubuntu")
+
+An official derivative of Ubuntu Linux using [KDE](/wiki/KDE "KDE") instead of the [GNOME](/wiki/GNOME "GNOME") (or Unity) desktop environment used by default in Ubuntu.[\[48\]](#cite_note-48)
+
+[Lubuntu](/wiki/Lubuntu "Lubuntu")
+
+An official derivative of the [Ubuntu](/wiki/Ubuntu "Ubuntu") [operating system](/wiki/Operating_system "Operating system") that is "lighter, less resource hungry and more energy-efficient", using the [LXQt](/wiki/LXQt "LXQt") [desktop environment](/wiki/Desktop_environment "Desktop environment") (used [LXDE](/wiki/LXDE "LXDE") before 18.10).[\[49\]](#cite_note-Distrowatch11May09-49)[\[50\]](#cite_note-LXDEBlog-50)[\[51\]](#cite_note-51)
+
+[Ubuntu Budgie](/wiki/Ubuntu_Budgie "Ubuntu Budgie")
+
+An official derivative of Ubuntu using [Budgie](/wiki/Budgie_(desktop_environment) "Budgie (desktop environment)").
+
+[Ubuntu Cinnamon](/wiki/Ubuntu_Cinnamon "Ubuntu Cinnamon")
+
+An official derivative of Ubuntu using the [Cinnamon](/wiki/Cinnamon_(desktop_environment) "Cinnamon (desktop environment)") desktop environment.[\[52\]](#cite_note-52)
+
+[Ubuntu Kylin](/wiki/Ubuntu_Kylin "Ubuntu Kylin")
+
+An official derivative aimed at the Chinese market.
+
+[Ubuntu MATE](/wiki/Ubuntu_MATE "Ubuntu MATE")
+
+An official derivative of Ubuntu using [MATE](/wiki/MATE_(software) "MATE (software)"), a desktop environment forked from the now-defunct GNOME 2 code base, with an emphasis on the [desktop metaphor](/wiki/Desktop_metaphor "Desktop metaphor").[\[53\]](#cite_note-Sneddon01Mar15-53)
+
+[Ubuntu Server](/wiki/Ubuntu_Server "Ubuntu Server")
+
+An official derivative made for use in servers & [IBM mainframes](/wiki/IBM_mainframe "IBM mainframe"). Ubuntu Server handles mail, controls printers, acts as a fileserver, can host [LAMP](/wiki/LAMP_(software_bundle) "LAMP (software bundle)") and more.[\[54\]](#cite_note-54)
+
+[Ubuntu Studio](/wiki/Ubuntu_Studio "Ubuntu Studio")
+
+Based on Ubuntu, providing open-source applications for [multimedia](/wiki/Multimedia "Multimedia") creation aimed at the audio, video and graphic editors.[\[55\]](#cite_note-55)
+
+[Ubuntu Unity](/wiki/Ubuntu_Unity "Ubuntu Unity")
+
+An official derivative of Ubuntu using the [Unity](/wiki/Unity_(user_interface) "Unity (user interface)") desktop environment.[\[56\]](#cite_note-Evangelho12May20-56)[\[57\]](#cite_note-57)
+
+[Xubuntu](/wiki/Xubuntu "Xubuntu")
+
+An official derivative of Ubuntu using [Xfce](/wiki/Xfce "Xfce"). Xubuntu is intended for use on less-powerful computers or those who seek a highly efficient desktop environment on faster systems, and uses mostly [GTK](/wiki/GTK "GTK") applications.[\[58\]](#cite_note-58)
+
+#### Discontinued official derivatives
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=4 "Edit section: Discontinued official derivatives")\]
+
+Distribution
+
+Description
+
+[Gobuntu](/wiki/Gobuntu "Gobuntu")
+
+Gobuntu was an official derivative of the Ubuntu operating system, aiming to provide a distribution consisting entirely of [free software](/wiki/Free_software "Free software"). It was officially announced by Mark Shuttleworth on July 10, 2007, and daily builds of Gobuntu 7.10 began to be publicly released. The project ended around the release of 8.04 and has since merged into mainline Ubuntu as a 'free software' option.[\[59\]](#cite_note-59)
+
+[Mythbuntu](/wiki/Mythbuntu "Mythbuntu")
+
+Based on Ubuntu and [MythTV](/wiki/MythTV "MythTV"), providing applications for recording TV and acting as a media center.[\[60\]](#cite_note-60) On 4 November 2016 the development team announced the end of Mythbuntu as a separate distribution, citing insufficient developers.
+
+[Ubuntu GNOME](/wiki/Ubuntu_GNOME "Ubuntu GNOME")
+
+Formerly an official Ubuntu variant,[\[61\]](#cite_note-61) but since the main Ubuntu 17.10, which uses [GNOME Shell](/wiki/GNOME_Shell "GNOME Shell") as its default desktop and GDM as its display manager, this distro has been merged into mainline releases.[\[62\]](#cite_note-62)
+
+[Ubuntu JeOS](/wiki/Ubuntu_JeOS "Ubuntu JeOS")
+
+"Just Enough OS" – was described as "an efficient variant \[...\] configured specifically for [virtual appliances](/wiki/Virtual_appliance "Virtual appliance")".[\[63\]](#cite_note-63) Since the release of Ubuntu 8.10 it has been included as an option as part of the standard Ubuntu Server Edition.
+
+[Ubuntu Mobile](/wiki/Ubuntu_Mobile "Ubuntu Mobile")
+
+An embedded operating system designed for use on [mobile devices](/wiki/Mobile_device "Mobile device"). The operating system will use [Hildon](/wiki/Hildon "Hildon") from [maemo](/wiki/Maemo "Maemo") as its [graphical frontend](/wiki/Graphical_user_interface "Graphical user interface"). [Ubuntu Touch](/wiki/Ubuntu_Touch "Ubuntu Touch") is a successor to Ubuntu Mobile.
+
+[Ubuntu Netbook Edition](/wiki/Ubuntu_Netbook_Edition "Ubuntu Netbook Edition")
+
+Netbook Edition was an official derivative of Ubuntu designed for [netbooks](/wiki/Netbook "Netbook") using the [Intel Atom](/wiki/Intel_Atom "Intel Atom") processor. Starting from [Ubuntu 11.04](/wiki/Ubuntu_version_history#1104 "Ubuntu version history"), Ubuntu Netbook Edition has been merged into the desktop edition.[\[64\]](#cite_note-64)
+
+[Ubuntu TV](/wiki/Ubuntu_TV "Ubuntu TV")
+
+Designed for use with [TVs](/wiki/Smart_TV "Smart TV").[\[65\]](#cite_note-65)
+
+#### Unofficial derivatives
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=5 "Edit section: Unofficial derivatives")\]
+
+Unofficial variants and derivatives are not controlled or guided by [Canonical Ltd.](/wiki/Canonical_Ltd. "Canonical Ltd.") and generally have different goals in mind.
+
+Distribution
+
+Description
+
+[BackBox](/wiki/BackBox "BackBox")
+
+BackBox is a Linux distribution based on Ubuntu. It has been developed to perform penetration tests and security assessments. Designed to be fast, easy to use and provide a minimal yet complete desktop environment, thanks to its own software repositories, always being updated to the latest stable version of the most used and best known ethical hacking tools.[\[66\]](#cite_note-66)
+
+[Bodhi Linux](/wiki/Bodhi_Linux "Bodhi Linux")
+
+An Ubuntu-based Linux distribution featuring the Moksha Desktop environment and targeting users who want a minimum of preinstalled software or low system requirements.[\[67\]](#cite_note-67)
+
+[Cub Linux](/wiki/Cub_Linux "Cub Linux")
+
+Ubuntu-based distribution designed to mimic the desktop appearance and functionality of ChromeOS.[\[68\]](#cite_note-68)[\[69\]](#cite_note-69)[\[70\]](#cite_note-70)
+
+[dyne:bolic](/wiki/Dyne:bolic "Dyne:bolic")
+
+[Live CD](/wiki/Live_CD "Live CD") geared toward multimedia (audio and video) production, but comes with other non-media specific application (e.g. word processor, desktop publisher)[\[71\]](#cite_note-71)
+
+[EasyPeasy](/wiki/EasyPeasy "EasyPeasy")
+
+Fork of Ubuntu designed for netbooks[\[72\]](#cite_note-72)
+
+[Eeebuntu](/wiki/Eeebuntu_OS "Eeebuntu OS")
+
+Specifically for the Eee PC range of netbooks, based on Debian. Also rebranded as Aurora OS.[\[73\]](#cite_note-73)
+
+[Element OS](/wiki/Element_OS "Element OS")
+
+Based on [Xubuntu](/wiki/Xubuntu "Xubuntu"), made for [Home theater PCs](/wiki/Home_theater_PC "Home theater PC")[\[74\]](#cite_note-74)
+
+[Elive](/wiki/Elive "Elive")
+
+A [light-weight Linux distribution](/wiki/Light-weight_Linux_distribution "Light-weight Linux distribution") featuring the [Enlightenment](/wiki/Enlightenment_(software) "Enlightenment (software)") desktop, designed to be simple and suitable for new Linux users who want a fully functional environment.
+
+[elementary OS](/wiki/Elementary_(operating_system) "Elementary (operating system)")
+
+A distribution focusing mainly on non-technical users, has a [pay what you want](/wiki/Pay_what_you_want "Pay what you want") model.[\[75\]](#cite_note-75)
+
+[Emmabuntüs](/wiki/Emmabunt%C3%BCs "Emmabuntüs")
+
+Based on [Xubuntu](/wiki/Xubuntu "Xubuntu") designed to facilitate the repacking of computers donated to [Emmaüs](/wiki/Emmaus_(charity) "Emmaus (charity)") Communities.[\[76\]](#cite_note-76)
+
+[GalliumOS](/wiki/GalliumOS "GalliumOS")
+
+A Linux distribution for ChromeOS devices by the community-supported GalliumOS project. Gallium is based on [Xubuntu](/wiki/Xubuntu "Xubuntu") and maintains compatibility with the [Ubuntu](/wiki/Ubuntu_(operating_system) "Ubuntu (operating system)") repositories.[\[77\]](#cite_note-77)
+
+[GendBuntu](/wiki/GendBuntu "GendBuntu")
+
+A version adapted for use by [France](/wiki/France "France")'s [National Gendarmerie](/wiki/National_Gendarmerie "National Gendarmerie").
+
+[Goobuntu](/wiki/Goobuntu "Goobuntu")
+
+An Ubuntu-based distribution that was used internally by [Google](/wiki/Google "Google") (until changing to non-Ubuntu, Debian-based [GLinux](/wiki/GLinux "GLinux")); not available outside of Google
+
+[gOS](/wiki/GOS_(operating_system) "GOS (operating system)")
+
+Used the GNOME desktop environment with user interface enhancements to make it work more like [Mac OS X](/wiki/Mac_OS_X "Mac OS X"), it also featured [Google Apps](/wiki/Google_Apps "Google Apps"), [Picasa](/wiki/Picasa "Picasa"), [Google Gadgets](/wiki/Google_Gadgets "Google Gadgets") and other web-based applications, and came with [Wine 1.0](/wiki/Wine_(software) "Wine (software)") pre-installed. Now discontinued.
+
+[Joli OS](/wiki/Joli_OS "Joli OS")
+
+Joli OS (formerly named Jolicloud) is in development and Pre-beta testing. Joli OS is built upon Debian and Ubuntu 9.10, but is tweaked to be more suitable for computers that have weaker specifications in terms of disk storage, memory and screen size. It is designed to run on relatively low-powered netbook computers.[\[78\]](#cite_note-78)
+
+[Karoshi](/wiki/Karoshi_(operating_system) "Karoshi (operating system)")
+
+A formerly [PCLinuxOS](/wiki/PCLinuxOS "PCLinuxOS")\-based distribution designed for use in schools.[\[79\]](#cite_note-79)
+
+[KDE neon](/wiki/KDE_neon "KDE neon")
+
+Focused on the development of KDE. The emphasis is on [bleeding edge](/wiki/Bleeding_edge "Bleeding edge") [software packages](/wiki/Software_suite "Software suite") sourced directly from [KDE](/wiki/KDE "KDE") and offers [programmers](/wiki/Programmers "Programmers") early access to new [features](/wiki/Feature_(software_design) "Feature (software design)"), but potentially at the cost of greater susceptibility to [software bugs](/wiki/Software_bugs "Software bugs").[\[80\]](#cite_note-networkworld1-80)
+
+[LiMux](/wiki/LiMux "LiMux")
+
+A project by the city council of [Munich](/wiki/Munich "Munich"), [Germany](/wiki/Germany "Germany")
+
+[Linux Caixa Mágica](/wiki/Linux_Caixa_M%C3%A1gica "Linux Caixa Mágica")
+
+[Portuguese](/wiki/Portugal "Portugal") Linux distribution.[\[81\]](#cite_note-81)
+
+[Linux Lite](/wiki/Linux_Lite "Linux Lite")
+
+The purpose of Linux Lite is to introduce [Windows](/wiki/Windows "Windows") users to [Linux](/wiki/Linux "Linux"), and provide them with a comfortable and useful user experience. It is designed to be simple and suitable for new [Linux](/wiki/Linux "Linux") users who want a lightweight, highly responsive, and fully functional environment.[\[82\]](#cite_note-82)
+
+[Linux Mint](/wiki/Linux_Mint "Linux Mint")
+
+Linux Mint synchronizes its release-cycle with Ubuntu's long-term support, and is tailored to user-friendliness for desktop users.[\[83\]](#cite_note-83) Linux Mint Debian Edition (LMDE) is Mint's Debian stable based version. Its purpose is to use Debian base packages/kernel under the hood should Ubuntu ever disappear. It's also used by Mint developers to develop their Cinnamon desktop.
+
+[LinuxMCE](/wiki/LinuxMCE "LinuxMCE")
+
+_Linux Media Center Edition_, a Kubuntu-based distribution that provides in-depth HTPC functionality as well as home automation.[\[84\]](#cite_note-84)
+
+[LinuxTLE](/wiki/LinuxTLE "LinuxTLE")
+
+A Thai Linux distribution. Not maintained.[\[85\]](#cite_note-85)
+
+[LliureX](/wiki/LliureX "LliureX")
+
+A distribution by the [Generalitat Valenciana](/wiki/Generalitat_Valenciana "Generalitat Valenciana")[\[86\]](#cite_note-86)
+
+[LXLE Linux](/wiki/LXLE_Linux "LXLE Linux")
+
+A [light-weight Linux distribution](/wiki/Light-weight_Linux_distribution "Light-weight Linux distribution") based on Lubuntu, using the [LXDE](/wiki/LXDE "LXDE") desktop environment.[\[87\]](#cite_note-87)
+
+[MAX](/wiki/MAX_(operating_system) "MAX (operating system)")
+
+Stands for MAdrid LinuX. Used in education.[\[88\]](#cite_note-88)
+
+[Maya OS](/wiki/Maya_(operating_system) "Maya (operating system)")
+
+A distribution developed by [Indian Ministry of Defence](/wiki/Ministry_of_Defence_(India) "Ministry of Defence (India)").[\[89\]](#cite_note-89)
+
+[Molinux](/wiki/Molinux "Molinux")
+
+Ubuntu based initiative to introduce the [Castile-La Mancha](/wiki/Castile-La_Mancha "Castile-La Mancha") community in Spain to the information society.[\[90\]](#cite_note-90)
+
+[Netrunner](/wiki/Netrunner_(operating_system) "Netrunner (operating system)")
+
+Kubuntu based distribution with complete software and codecs installed, developed by [Blue Systems](/wiki/Blue_Systems "Blue Systems") (also sponsoring Kubuntu and LinuxMintKDE).[\[91\]](#cite_note-91)
+
+[Nova](/wiki/Nova_(operating_system) "Nova (operating system)")
+
+[Cuban](/wiki/Cuba "Cuba") state-sponsored distribution developed at the [University of Information Science](/wiki/University_of_Information_Science "University of Information Science"), [Havana](/wiki/Havana "Havana"). Formerly based on Gentoo.
+
+[OpenGEU](/wiki/OpenGEU "OpenGEU")
+
+Ubuntu based distribution with Enlightenment window manager, previously known as Geubuntu.[\[92\]](#cite_note-92)
+
+[Peppermint OS](/wiki/Peppermint_OS "Peppermint OS")
+
+A light-weight LXDE distribution for [cloud applications](/wiki/Cloud_application "Cloud application") through its own Ice Framework using the Chromium Web Browser. Based on [Lubuntu](/wiki/Lubuntu "Lubuntu")[\[93\]](#cite_note-93)
+
+[Pinguy OS](/wiki/Pinguy_OS "Pinguy OS")
+
+An Ubuntu-based distro for people that have never used Linux before or for people that want an out-of-the-box working OS without having to tweak a fresh installation of Ubuntu or other Ubuntu-based distro.[\[94\]](#cite_note-94)
+
+[Pop!\_OS](/wiki/Pop!_OS "Pop! OS")
+
+An Ubuntu-based distro developed by [System76](/wiki/System76 "System76") predominantly for use on hardware that they manufacture.
+
+[Poseidon Linux](/wiki/Poseidon_Linux "Poseidon Linux")
+
+For academic and scientific use. Based on Ubuntu, but enhanced by GIS/maps, numerical modelling, 2D/3D/4D visualization, statistics, tools for creating simple and complex graphics, programming languages.
+
+[Sabily](/wiki/Sabily "Sabily")
+
+Ubuntu based distribution for Muslims (formerly Ubuntu Muslim Edition)[\[95\]](#cite_note-95) Unmaintained
+
+[SuperGamer](/wiki/SuperGamer "SuperGamer")
+
+A [Live DVD](/wiki/Live_DVD "Live DVD") distribution focused on [gaming](/wiki/Linux_gaming "Linux gaming") formerly based on [VectorLinux](/wiki/VectorLinux "VectorLinux").
+
+[Trisquel GNU/Linux](/wiki/Trisquel_GNU/Linux "Trisquel GNU/Linux")
+
+Fully [free-software](/wiki/Free_software "Free software") system without proprietary software or firmware and uses the [Linux-libre](/wiki/Linux-libre "Linux-libre") kernel deblob script, based on Ubuntu LTS Releases[\[96\]](#cite_note-96)
+
+[UberStudent](/wiki/UberStudent "UberStudent")
+
+For higher education and advanced secondary students, those who teach them, and lifelong learners[\[97\]](#cite_note-97)
+
+[Ututo](/wiki/Ututo "Ututo")
+
+Ututo UL ("Ubuntu-Libre") Distributes Simusol, a system to simulate Solar Energy projects, returned to the heart of the project. Discontinued.[\[98\]](#cite_note-98)
+
+[Vinux](/wiki/Vinux "Vinux")
+
+A Linux distribution designed for [visually impaired](/wiki/Visual_impairment "Visual impairment") users[\[99\]](#cite_note-99)
+
+[Wubuntu](/wiki/Wubuntu "Wubuntu")
+
+Former LinuxFX. Also known as "Windows Ubuntu". The distribution aims to imitate Microsoft operating system [Windows 11](/wiki/Windows_11 "Windows 11").[\[100\]](#cite_note-100)[\[101\]](#cite_note-101)
+
+[Zorin OS](/wiki/Zorin_OS "Zorin OS")
+
+Zorin OS is a user-friendly distribution that can emulate [Microsoft Windows](/wiki/Microsoft_Windows "Microsoft Windows") or [macOS](/wiki/MacOS "MacOS"). It is meant for users unfamiliar with Linux.[\[102\]](#cite_note-102)
+
+### Knoppix-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=6 "Edit section: Knoppix-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/KnoppixFamilyTree1210.svg/220px-KnoppixFamilyTree1210.svg.png)](/wiki/File:KnoppixFamilyTree1210.svg)
+
+Knoppix family tree
+
+[Knoppix](/wiki/Knoppix "Knoppix") (a [portmanteau](/wiki/Portmanteau "Portmanteau") of the surname _Knopper_ from [Klaus Knopper](/wiki/Klaus_Knopper "Klaus Knopper") and [Unix](/wiki/Unix "Unix")) itself is based on Debian. It is a live distribution, with automated hardware configuration and a wide choice of software, which is decompressed as it loads from the drive.[\[103\]](#cite_note-103)
+
+Distribution
+
+Description
+
+[Damn Small Linux](/wiki/Damn_Small_Linux "Damn Small Linux")
+
+A small Linux distro designed to run on older hardware. It is commonly used on [virtual machines](/wiki/Virtual_machine "Virtual machine") due to low memory requirements.[\[104\]](#cite_note-104)
+
+[Feather Linux](/wiki/Feather_Linux "Feather Linux")
+
+Boots from either a CD or a [USB flash drive](/wiki/USB_flash_drive "USB flash drive"). Uses [Knoppix](/wiki/Knoppix "Knoppix")\-based hardware detection and the [Fluxbox](/wiki/Fluxbox "Fluxbox") window manager.[\[105\]](#cite_note-105)
+
+Pacman-based
+------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=7 "Edit section: Pacman-based")\]
+
+[Pacman](/wiki/Pacman_(Arch_Linux) "Pacman (Arch Linux)") is a package manager that is capable of resolving dependencies and automatically downloading and installing all necessary packages. It is primarily developed and used by [Arch Linux](/wiki/Arch_Linux "Arch Linux") and its derivatives.
+
+### Arch Linux-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=8 "Edit section: Arch Linux-based")\]
+
+[Arch Linux](/wiki/Arch_Linux "Arch Linux") is an independently developed, x86-64 general-purpose Linux distribution that strives to provide the latest stable versions of most software by following a rolling-release model. The default installation is a minimal base system—configured by the user to only add what is purposely required.
+
+Distribution
+
+Description
+
+[Antergos](/wiki/Antergos "Antergos")
+
+Antergos is a discontinued Linux distribution based on Arch Linux.
+
+[Arch Linux ARM](/wiki/Arch_Linux_ARM "Arch Linux ARM")
+
+Port of Arch Linux for ARM processors.
+
+[ArchBang](/wiki/ArchBang "ArchBang")
+
+Based on Arch Linux, but also provides Live CDs with working system and graphical installation scripts; uses [i3](/wiki/I3_(window_manager) "I3 (window manager)") as default window manager.
+
+[Artix Linux](/wiki/Artix_Linux "Artix Linux")
+
+Based on Arch Linux, but using [Dinit](/w/index.php?title=Dinit&action=edit&redlink=1 "Dinit (page does not exist)"), [OpenRC](/wiki/OpenRC "OpenRC"), [Runit](/wiki/Runit "Runit"), or [s6](/w/index.php?title=S6_(software)&action=edit&redlink=1 "S6 (software) (page does not exist)") as [init system](/wiki/Init "Init") instead of [systemd](/wiki/Systemd "Systemd").
+
+[ArchLabs](/wiki/ArchLabs "ArchLabs")
+
+Based on Arch Linux, with a custom installer, offers many choices of desktop environments and window managers.
+
+[BlackArch](/wiki/BlackArch "BlackArch")
+
+A cybersecurity-focused OS based on Arch Linux. It is designed to test security and run penetration tests. It includes window managers preconfigured, but no desktop environment.
+
+[EndeavourOS](/wiki/EndeavourOS "EndeavourOS")
+
+Continuation of [Antergos](/wiki/Antergos "Antergos"), featuring a graphical installer capable of installing [KDE Plasma](/wiki/KDE_Plasma "KDE Plasma") (default, offline), [Budgie](/wiki/Budgie_(desktop_environment) "Budgie (desktop environment)"), [Cinnamon](/wiki/Cinnamon_(desktop_environment) "Cinnamon (desktop environment)"), [Deepin](/wiki/Deepin "Deepin"), [GNOME](/wiki/GNOME "GNOME"), [i3](/wiki/I3_(window_manager) "I3 (window manager)"), [Xfce](/wiki/Xfce "Xfce"), [LXQt](/wiki/LXQt "LXQt"), and [MATE](/wiki/MATE_(software) "MATE (software)").
+
+[Garuda Linux](/wiki/Garuda_Linux "Garuda Linux")
+
+A distribution based on gaming.[\[106\]](#cite_note-106)
+
+[Hyperbola GNU/Linux-libre](/wiki/Hyperbola_GNU/Linux-libre "Hyperbola GNU/Linux-libre")
+
+An Arch and Debian derivative without any [blobs](/wiki/Binary_blob "Binary blob"), without systemd support and with [OpenRC](/wiki/OpenRC "OpenRC") as its default init system. Packages are built for i686 and x64. Unlike Arch, Hyperbola uses the long-term support model like Debian.
+
+[LinHES](/wiki/LinHES "LinHES")
+
+LinHES (Linux Home Entertainment Server) designed for use on home theater PCs (HTPCs), providing applications for recording TV and acting as a sound and video center.
+
+[Manjaro](/wiki/Manjaro "Manjaro")
+
+Based on Arch Linux, using its own repositories and ships with either [Xfce](/wiki/Xfce "Xfce"), [Plasma](/wiki/KDE_Plasma_5 "KDE Plasma 5"), [GNOME](/wiki/GNOME "GNOME"), or the CLI as the default desktop environment. Additional community-driven editions are available that use [MATE](/wiki/MATE_(software) "MATE (software)"), [Cinnamon](/wiki/Cinnamon_(desktop_environment) "Cinnamon (desktop environment)"), [Openbox](/wiki/Openbox "Openbox"), [Awesome](/wiki/Awesome_(window_manager) "Awesome (window manager)"), [i3](/wiki/I3_(window_manager) "I3 (window manager)"), BSPWM, or [Budgie](/wiki/Budgie_(desktop_environment) "Budgie (desktop environment)") as a base.
+
+[Parabola GNU/Linux-libre](/wiki/Parabola_GNU/Linux-libre "Parabola GNU/Linux-libre")
+
+An Arch derivative without any [blobs](/wiki/Binary_blob "Binary blob"), plus various added packages. Packages are also built for ARMv7 in addition to i686 and x64. [MATE](/wiki/MATE_(software) "MATE (software)") and text-mode distributions available.
+
+[SteamOS](/wiki/SteamOS "SteamOS")
+
+Arch-based and gaming-focused distribution developed by [Valve](/wiki/Valve_Corporation "Valve Corporation") and designed for the [Steam digital distribution platform](/wiki/Steam_(service) "Steam (service)") and [Steam Deck](/wiki/Steam_Deck "Steam Deck"). Before version 3.0, was previously based on Debian.
+
+[SystemRescue](/wiki/SystemRescueCD "SystemRescueCD")
+
+Linux System rescue toolkit. Previously based on Gentoo, it has been based on Arch Linux since version 6.0.0
+
+CachyOS
+
+An Arch-based distribution, focused on gaming that has a custom optimized kernel
+
+### Other Pacman-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=9 "Edit section: Other Pacman-based")\]
+
+Distribution
+
+Description
+
+[Chakra Linux](/wiki/Chakra_Linux "Chakra Linux")
+
+Originally derived from Arch Linux, with the latest [KDE](/wiki/KDE "KDE"). For now uses the [Pacman](/wiki/Pacman_(software) "Pacman (software)") utility for package management. Strives to be Qt-only. Discontinued.[\[107\]](#cite_note-discontinued-107)
+
+[Frugalware Linux](/wiki/Frugalware_Linux "Frugalware Linux")
+
+A general purpose Linux distribution designed for intermediate users. Has some influences from Slackware, and uses a heavily modified version of pacman, Pacman-G2, a fork of a [cvs](/wiki/Concurrent_Versions_System "Concurrent Versions System") version of the complete rewrite of Pacman-G1 by Aurelien Foret (the old monolithic Pacman-G1 is written by [Judd Vinet](/wiki/Judd_Vinet "Judd Vinet")). The packages are [tar](/wiki/Tar_(file_format) "Tar (file format)") archives compressed using [xz](/wiki/XZ_Utils "XZ Utils").[\[108\]](#cite_note-about-108)
+
+[KaOS](/wiki/KaOS "KaOS")
+
+An independent 64-bit only rolling-release Linux distribution inspired by Arch that features the latest KDE Plasma environment and the Qt toolkit.[\[109\]](#cite_note-109)
+
+RPM-based
+---------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=10 "Edit section: RPM-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/9/97/RedHatFamilyTree1210.svg/170px-RedHatFamilyTree1210.svg.png)](/wiki/File:RedHatFamilyTree1210.svg)
+
+Red Hat family tree
+
+[Red Hat Linux](/wiki/Red_Hat_Linux "Red Hat Linux") and [SUSE Linux](/wiki/SUSE_Linux "SUSE Linux") were the original major distributions that used the [.rpm](/wiki/.rpm ".rpm") file format, which today is used in several package management systems. Both of these were later divided into commercial and community-supported distributions. Red Hat Linux was divided into a community-supported but [Red Hat](/wiki/Red_Hat "Red Hat")\-sponsored distribution named [Fedora](/wiki/Fedora_(operating_system) "Fedora (operating system)"), and a commercially supported distribution called [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux"), whereas SUSE Linux was divided into [openSUSE](/wiki/OpenSUSE "OpenSUSE") and [SUSE Linux Enterprise](/wiki/SUSE_Linux_Enterprise "SUSE Linux Enterprise").
+
+### Fedora-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=11 "Edit section: Fedora-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/FedoraFamilyTree1210.svg/220px-FedoraFamilyTree1210.svg.png)](/wiki/File:FedoraFamilyTree1210.svg)
+
+Fedora family tree
+
+[Fedora](/wiki/Fedora_(operating_system) "Fedora (operating system)") is a community supported distribution. It aims to provide the latest software while maintaining a completely [Free Software](/wiki/Free_Software "Free Software") system.[\[110\]](#cite_note-110)
+
+Distribution
+
+Description
+
+[Asahi Linux](/wiki/Asahi_Linux "Asahi Linux")
+
+Port of Linux to [Apple silicon](/wiki/Apple_silicon "Apple silicon")\-powered [Macs](/wiki/Macintosh "Macintosh").
+
+[Amazon Linux 2](/wiki/Amazon_Linux_AMI "Amazon Linux AMI")
+
+Amazon Linux 2 is available as an [Amazon Machine Image (AMI)](/wiki/Amazon_Linux_AMI "Amazon Linux AMI") for use on Amazon Elastic Compute Cloud (Amazon EC2). It is also available as a Docker container image and as a virtual machine image for use on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Microsoft Hyper-V, and VMware ESXi
+
+[Bazzite](/wiki/Bazzite_Linux "Bazzite Linux")
+
+A atomic gaming focused distribution developed with [Universal Blue](https://universal-blue.org/). It is similar to [SteamOS](/wiki/SteamOS "SteamOS").
+
+[Berry Linux](/wiki/Berry_Linux "Berry Linux")
+
+A medium-sized Fedora-based distribution that provides support in Japanese and English.
+
+[BLAG Linux and GNU](/wiki/BLAG_Linux_and_GNU "BLAG Linux and GNU")
+
+A completely free software distribution.
+
+[CentOS Stream](/wiki/CentOS "CentOS")
+
+Community-supported Linux distribution originally based on RHEL and well suited for servers. Now sponsored by [Red Hat](/wiki/Red_Hat "Red Hat").[\[111\]](#cite_note-111)
+
+[EnGarde Secure Linux](/wiki/EnGarde_Secure_Linux "EnGarde Secure Linux")
+
+Server-only Linux distribution designed to be secure.[\[112\]](#cite_note-112)
+
+[Fuduntu](/wiki/Fuduntu "Fuduntu")
+
+Designed to fit in somewhere between Fedora and Ubuntu.
+
+[Hanthana](/wiki/Hanthana_(operating_system) "Hanthana (operating system)")
+
+Designed to cater the needs of Sri Lankan computer users who are unable to access Internet frequently, with many most-wanted applications built in.
+
+[Korora](/wiki/Korora_(operating_system) "Korora (operating system)")
+
+Initially aimed at easy installation of a Gentoo system by using install scripts instead of manual configuration. Now based on Fedora.
+
+[Linpus Linux](/wiki/Linpus_Linux "Linpus Linux")
+
+Focused on the Chinese market, along with Linpus Lite focused on the [netbook](/wiki/Netbook "Netbook") market.
+
+[Linux XP](/wiki/Linux_XP "Linux XP")
+
+Fedora-based shareware distribution designed to imitate the Windows environment using [GNOME](/wiki/GNOME "GNOME").
+
+[MeeGo](/wiki/MeeGo "MeeGo")
+
+Built by Intel and Nokia, intended for mobile phones (mainly [Nokia N9](/wiki/Nokia_N9 "Nokia N9")) and tablets. It is based on Moblin together with Maemo.
+
+[Moblin](/wiki/Moblin "Moblin")
+
+Built around the Intel Atom processor; supplanted by Meego when Intel and (temporarily) Nokia combined activities
+
+[Network Security Toolkit](/wiki/Network_Security_Toolkit "Network Security Toolkit")
+
+A live CD/DVD with security and networking tools to perform routine security and networking diagnostic and monitoring tasks.
+
+[Qubes OS](/wiki/Qubes_OS "Qubes OS")
+
+Focused on security for desktop users. Based on an "ancient" Fedora release which is said to be upgraded under [YUM](/wiki/YUM_(software) "YUM (software)").
+
+[Red Star OS](/wiki/Red_Star_OS "Red Star OS")
+
+A North Korean Linux distribution developed at the Korea Computer Center (KCC). It is offered only in a Korean language edition, localized with North Korean terminology and spelling.
+
+[Russian Fedora Remix](/wiki/Russian_Fedora_Remix "Russian Fedora Remix")
+
+A remix of Fedora.
+
+[Sailfish OS](/wiki/Sailfish_OS "Sailfish OS")
+
+Built by Jolla, [Sailfish OS](/wiki/Sailfish_OS "Sailfish OS") is a 4th generation mobile Linux system ported to a line of Sony Xperia handsets, with community ports available to alternative devices.
+
+[Sugar-on-a-Stick Linux](/wiki/Sugar_(software)#Sugar_on_a_Stick "Sugar (software)")
+
+An educational operating system, originally designed for the [One-Laptop-Per-Child project](/wiki/One_Laptop_per_Child "One Laptop per Child").
+
+[Yellow Dog Linux](/wiki/Yellow_Dog_Linux "Yellow Dog Linux")
+
+For the [PowerPC](/wiki/PowerPC "PowerPC") platform.
+
+#### RHEL-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=12 "Edit section: RHEL-based")\]
+
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}
+
+See also: [Red Hat Enterprise Linux derivatives](/wiki/Red_Hat_Enterprise_Linux_derivatives "Red Hat Enterprise Linux derivatives") and [Commercial products based on Red Hat Enterprise Linux](/wiki/Commercial_products_based_on_Red_Hat_Enterprise_Linux "Commercial products based on Red Hat Enterprise Linux")
+
+[Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux") is a commercial open-source Linux distribution developed by [Red Hat](/wiki/Red_Hat "Red Hat") for the commercial market.
+
+Distribution
+
+Description
+
+[AlmaLinux](/wiki/AlmaLinux "AlmaLinux")
+
+A 100% community owned and governed alternative [CentOS](/wiki/CentOS "CentOS") as a [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux") rebuild. Governed by the AlmaLinux OS Foundation.
+
+[Asianux](/wiki/Asianux "Asianux")
+
+A Linux distribution co-developed between [Red Flag Software](/wiki/Red_Flag_Linux "Red Flag Linux") Co., Ltd., [Miracle Linux](/wiki/Miracle_Linux "Miracle Linux") Corp. and [Haansoft](/wiki/Haansoft "Haansoft"), INC., focused on Chinese, Japanese and Korean support.
+
+[ClearOS](/wiki/ClearOS "ClearOS")
+
+A Linux distribution designed for use in small and medium enterprises.
+
+[Fermi Linux LTS](/wiki/Fermi_Linux_LTS "Fermi Linux LTS")
+
+Based on Scientific Linux.[\[113\]](#cite_note-113)
+
+[Miracle Linux](/wiki/Miracle_Linux "Miracle Linux")
+
+A Linux distribution developed by Cybertrust Japan Co., Ltd., aims to be compatible with Red Hat Enterprise Linux.
+
+[Oracle Linux](/wiki/Oracle_Linux "Oracle Linux")
+
+Supported by [Oracle](/wiki/Oracle_Corporation "Oracle Corporation"). Aims to be fully compatible with Red Hat Enterprise Linux.
+
+[Red Flag Linux](/wiki/Red_Flag_Linux "Red Flag Linux")
+
+A Linux distribution developed in China and optimized for the Chinese market. Based on Asianux.
+
+[Rocks Cluster Distribution](/wiki/Rocks_Cluster_Distribution "Rocks Cluster Distribution")
+
+A Linux distribution for building a High-Performance Computing computer cluster, with a recent release supporting Cloud computing. It is based on [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux") but with extensions to support large multi-node heterogeneous systems for clusters (HPC), Cloud, and Data Warehousing (in development).
+
+[Rocky Linux](/wiki/Rocky_Linux "Rocky Linux")
+
+A Linux distribution that is currently in development by the CentOS founder, Gregory Kurtzer, aims to be compatible with Red Hat Enterprise Linux.
+
+[Scientific Linux](/wiki/Scientific_Linux "Scientific Linux")
+
+A discontinued Linux distribution co-developed by [Fermi National Accelerator Laboratory](/wiki/Fermilab "Fermilab") and the [European Organization for Nuclear Research](/wiki/CERN "CERN") (CERN), which aims to be compatible with and based on [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux").
+
+### openSUSE-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=13 "Edit section: openSUSE-based")\]
+
+[openSUSE](/wiki/OpenSUSE "OpenSUSE") is a community-developed Linux distribution, sponsored by [SUSE](/wiki/SUSE_Linux "SUSE Linux"). It maintains a strict policy of ensuring all code in the standard installs will be from [FOSS](/wiki/Free_software "Free software") solutions, including [Linux](/wiki/Linux "Linux") kernel Modules. [SUSE's enterprise Linux products](/wiki/SUSE_Linux_Enterprise "SUSE Linux Enterprise") are all based on the codebase that comes out of the openSUSE project.
+
+Distribution
+
+Description
+
+[GeckoLinux](/wiki/GeckoLinux "GeckoLinux")
+
+A distribution with a focus on polish and out-of-the-box desktop usability. It is available in _Static_ and _Rolling_ versions, based on openSUSE Leap and Tumbleweed.
+
+[SUSE Linux Enterprise](/wiki/SUSE_Linux_Enterprise "SUSE Linux Enterprise")
+
+Comes in two variations. SUSE Linux Enterprise Desktop (previously branded Novell Linux Desktop) is a desktop-oriented Linux distribution supplied by [SUSE](/wiki/SUSE_S.A. "SUSE S.A.") and targeted at the enterprise market. SUSE Linux Enterprise Server is a server-oriented Linux distribution targeted at the business market.
+
+### Mandriva-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=14 "Edit section: Mandriva-based")\]
+
+[Mandriva Linux](/wiki/Mandriva_Linux "Mandriva Linux") is open-source distribution (with exceptions), discontinued in 2011. The first release was named Mandrake Linux and based on Red Hat Linux (version 5.1) and [KDE](/wiki/KDE "KDE") 1 in July 1998. It had since moved away from Red Hat's distribution and became a completely separate distribution. The name was changed to Mandriva, which included a number of original tools, mostly to ease system configuration. Mandriva Linux was the brainchild of [Gaël Duval](/wiki/Ga%C3%ABl_Duval "Gaël Duval"), who wanted to focus on ease of use for new users. The last stable version was in 2011. Mandriva's developers moved to [Mageia](/wiki/Mageia "Mageia")[\[114\]](#cite_note-114) and [OpenMandriva](/wiki/OpenMandriva "OpenMandriva").[\[115\]](#cite_note-115)
+
+Distribution
+
+Description
+
+[Mageia](/wiki/Mageia "Mageia")
+
+A community Linux distribution initially forked from Mandriva Linux in response to the discontinuation of free versions of Mandriva Linux.
+
+[ROSA Linux](/wiki/ROSA_Linux "ROSA Linux")
+
+A Russian distribution available in three different editions: ROSA Desktop Fresh, ROSA Enterprise Desktop and ROSA Enterprise Linux Server, with the latter two aiming at commercial users. Its desktop editions come bundled with [proprietary software](/wiki/Proprietary_software "Proprietary software") such as [Adobe Flash Player](/wiki/Adobe_Flash_Player "Adobe Flash Player"), multimedia [codecs](/wiki/Codec "Codec") and [Steam](/wiki/Steam_(service) "Steam (service)").
+
+[OpenMandriva](/wiki/OpenMandriva "OpenMandriva")
+
+A fork of Mandriva Linux by the OpenMandriva Association.
+
+### Other RPM-based
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=15 "Edit section: Other RPM-based")\]
+
+Distribution
+
+Description
+
+[ALT Linux](/wiki/ALT_Linux "ALT Linux")
+
+ALT Linux is a set of [RPM](/wiki/.rpm ".rpm")\-based operating systems built on top of the Linux kernel and Sisyphus packages repository. ALT Linux has been developed collectively by ALT Linux Team developers community and ALT Linux Ltd.
+
+[Caldera OpenLinux](/wiki/Caldera_OpenLinux "Caldera OpenLinux")
+
+A Linux distribution originally introduced by [Caldera](/wiki/Caldera_(company) "Caldera (company)") and later developed by its subsidiary [Caldera Systems](/wiki/Caldera_Systems "Caldera Systems"). It was later developed by [Caldera International](/wiki/Caldera_International "Caldera International") (which bought SCO and was renamed [The SCO Group](/wiki/The_SCO_Group "The SCO Group")). The distribution is no longer produced. Last release: 3.1.1 – Jan. 30, 2002
+
+[PCLinuxOS](/wiki/PCLinuxOS "PCLinuxOS")
+
+A [rolling release](/wiki/Rolling_release "Rolling release") Linux Live CD distribution. Originally based on Mandrake 9.2. Later rebased on [Mandriva](/wiki/Mandriva_Linux "Mandriva Linux") 2007.
+
+[Red Hat Linux](/wiki/Red_Hat_Linux "Red Hat Linux")
+
+Split into [Fedora Core](/wiki/Fedora_(operating_system) "Fedora (operating system)") and [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux"). The last official release of the unsplit distribution was Red Hat Linux 9 in March 2003.
+
+[SUSE Linux](/wiki/SUSE_Linux "SUSE Linux")
+
+Split into [openSUSE](/wiki/OpenSUSE "OpenSUSE") and [SUSE Linux Enterprise](/wiki/SUSE_Linux_Enterprise "SUSE Linux Enterprise").
+
+[Think Blue Linux](/wiki/Think_Blue_Linux "Think Blue Linux")
+
+A port of Linux to IBM S/390 (later, zSeries) mainframe computers, done by the Millenux subsidiary of German company Thinking Objects Software GmbH. Discontinued in 2006.
+
+[Turbolinux](/wiki/Turbolinux "Turbolinux")
+
+Originally based on Red Hat Linux.
+
+[Vine Linux](/wiki/Vine_Linux "Vine Linux")
+
+A Japanese distribution originally based on Red Hat Linux.
+
+Gentoo-based
+------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=16 "Edit section: Gentoo-based")\]
+
+Main article: [List of Gentoo Linux derivatives](/wiki/List_of_Gentoo_Linux_derivatives "List of Gentoo Linux derivatives")
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/6/65/GentooFamilyTree1210.svg/220px-GentooFamilyTree1210.svg.png)](/wiki/File:GentooFamilyTree1210.svg)
+
+Gentoo family tree
+
+[Gentoo](/wiki/Gentoo_Linux "Gentoo Linux") is a distribution designed to have highly optimized and frequently updated software.[\[116\]](#cite_note-116) Distributions based on Gentoo use the [Portage](/wiki/Portage_(software) "Portage (software)") package management system with [emerge](/wiki/Portage_(software)#Emerge "Portage (software)")[\[117\]](#cite_note-117) or one of the alternative package managers.
+
+Distribution
+
+Description
+
+[Calculate Linux](/wiki/Calculate_Linux "Calculate Linux")
+
+Calculate Linux is a family of distributions.
+
+[ChromeOS](/wiki/ChromeOS "ChromeOS")[\[118\]](#cite_note-chrome-118)
+
+[Google](/wiki/Google "Google")'s Linux-based operating system used on various [Chromebooks](/wiki/Chromebook "Chromebook"), [Chromeboxes](/wiki/Chromebox "Chromebox") and [tablet computers](/wiki/Tablet_computer "Tablet computer"). It is primarily Internet-based, launching each app within the [Chrome](/wiki/Google_Chrome "Google Chrome") browser. The OS features a user interface that looks very similar to Chrome instead of [GNOME](/wiki/GNOME "GNOME"), [Cinnamon](/wiki/Cinnamon_(software) "Cinnamon (software)"), [LXQt](/wiki/LXQt "LXQt"), [Xfce](/wiki/Xfce "Xfce"), etc.
+
+[ChromiumOS](/wiki/ChromiumOS "ChromiumOS")
+
+Free and open-source version of ChromeOS.
+
+[Clip OS](/wiki/CLIP_OS "CLIP OS")
+
+Created by [ANSSI, the National Cybersecurity Agency of France](/wiki/Agence_nationale_de_la_s%C3%A9curit%C3%A9_des_syst%C3%A8mes_d%27information "Agence nationale de la sécurité des systèmes d'information") and based on hardened Gentoo, it's aimed to secure sensitive information which meets the needs of the French Administration.
+
+[Container Linux](/wiki/Container_Linux_by_CoreOS "Container Linux by CoreOS")
+
+Linux distribution by [CoreOS](/wiki/CoreOS "CoreOS") designed for clustered and containerized deployments with update subscription
+
+[Pentoo](/wiki/Pentoo "Pentoo")
+
+Penetration-testing Live CD.
+
+[Sabayon Linux](/wiki/Sabayon_Linux "Sabayon Linux")
+
+Discontinued Italian made Linux distribution based on Funtoo. It followed the "out of the box" philosophy, aiming to give the user a wide number of applications ready to use and a self-configured operating system. Like Gentoo, Sabayon used the [rolling release](/wiki/Rolling_release "Rolling release") model; it used a customized version of Red Hat's Anaconda Installer and included a Media Center application.
+
+Slackware-based
+---------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=17 "Edit section: Slackware-based")\]
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/SlackwareFamilyTree1210.svg/220px-SlackwareFamilyTree1210.svg.png)](/wiki/File:SlackwareFamilyTree1210.svg)
+
+Slackware family tree
+
+[Slackware](/wiki/Slackware "Slackware") is a highly customizable distribution that stresses ease of maintenance and reliability over cutting-edge software and automated tools. It is generally considered a distribution for advanced users.
+
+Distribution
+
+Description
+
+[Absolute Linux](/wiki/Absolute_Linux "Absolute Linux")
+
+A [Light-weight Linux distribution](/wiki/Light-weight_Linux_distribution "Light-weight Linux distribution") based on [Slackware](/wiki/Slackware "Slackware")
+
+[Austrumi Linux](/wiki/Austrumi_Linux "Austrumi Linux")
+
+[Slackware](/wiki/Slackware "Slackware")\-based [Live CD](/wiki/Live_CD "Live CD") distribution. Dormant as of 2023.[\[119\]](#cite_note-119)
+
+[Damn Vulnerable Linux](/wiki/Damn_Vulnerable_Linux "Damn Vulnerable Linux")
+
+Damn Vulnerable Linux (DVL) is a discontinued Linux distribution geared toward computer security students.
+
+[KateOS](/wiki/KateOS "KateOS")
+
+A desktop distribution aimed at intermediate users. It uses [Xfce](/wiki/Xfce "Xfce") as its default desktop environment. No longer in development.
+
+[MuLinux](/wiki/MuLinux "MuLinux")
+
+Floppy-based Linux distribution with replaceable modules
+
+[NimbleX](/wiki/NimbleX "NimbleX")
+
+Completely customizable through the NimbleX website. Now no longer producing new versions.
+
+[Platypux](/wiki/Platypux "Platypux")
+
+A French Linux distribution of the Slackware family.
+
+[Porteus](/wiki/Porteus_(operating_system) "Porteus (operating system)")
+
+A small and portable Linux distro focused on speed.
+
+[Salix OS](/wiki/Salix_OS "Salix OS")
+
+Originally a fork of Zenwalk, Salix is a complete Linux distribution fully backwards compatible with Slackware. It uses [Xfce](/wiki/Xfce "Xfce"), [KDE](/wiki/KDE "KDE"), [LXDE](/wiki/LXDE "LXDE"), [Fluxbox](/wiki/Fluxbox "Fluxbox") or [Ratpoison](/wiki/Ratpoison "Ratpoison") as its default desktop environment. Salix OS is available as 32 and 64bit version, and also as Live CD versions.
+
+[Sentry Firewall](/wiki/Sentry_Firewall "Sentry Firewall")
+
+A firewall, server, or [intrusion detection system](/wiki/Intrusion_detection_system "Intrusion detection system") distribution
+
+[Slackintosh](/wiki/Slackintosh "Slackintosh")
+
+An unofficial port of Slackware to the [PowerPC](/wiki/PowerPC "PowerPC") architecture
+
+[Slax](/wiki/Slax "Slax")
+
+A [live CD](/wiki/Live_CD "Live CD") which aims to provide a complete desktop for general use for low-powered computers. Its download size is about 300 MB, almost the same as Puppy Linux's. It can run from RAM, from Live CD, USB or hard drive. Permanent installation of Slax is not recommended or supported; it is designed for "live" use only. Also can be run from a USB flash drive. Originally based on Slackware, then switched to [Debian](/wiki/Debian "Debian") since v9.2.1. Returned to a Slackware base as of v15.0.
+
+[Topologilinux](/wiki/Topologilinux "Topologilinux")
+
+Designed to run from within [Microsoft Windows](/wiki/Microsoft_Windows "Microsoft Windows"), Topologilinux can be installed without any changes to the user's hard disk. Outdated.
+
+[VectorLinux](/wiki/VectorLinux "VectorLinux")
+
+A lightweight Linux distribution designed to be easy to use even for new users. Generally considered well-suited for older hardware.
+
+[Zenwalk](/wiki/Zenwalk "Zenwalk")
+
+Originally a minimal version of Slackware, Zenwalk has evolved into a very different operating system; however, compatibility with Slackware is still maintained.
+
+[ZipSlack](/wiki/ZipSlack "ZipSlack")
+
+A lightweight and portable version of Slackware.
+
+Android-based
+-------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=18 "Edit section: Android-based")\]
+
+[Android](/wiki/Android_(operating_system) "Android (operating system)") is a mobile operating system bought and currently being developed by [Google](/wiki/Google "Google"), based on a Google modified [Linux kernel](/wiki/Linux_kernel "Linux kernel") and designed primarily for touchscreen mobile devices such as [smartphones](/wiki/Smartphones "Smartphones") and [tablets](/wiki/Tablet_computer "Tablet computer").[\[120\]](#cite_note-120) Despite Android's core mobile focus, some laptop oriented derivatives like [Android-x86](/wiki/Android-x86 "Android-x86") have come out over the years since its initial release.
+
+Distribution
+
+Description
+
+[/e/](/wiki//e/_(operating_system) "/e/ (operating system)")
+
+/e/ (also known as /e/ OS and /e/OS, formerly Eelo) is an Android-based mobile operating system and associated online services. The operating system is a fork of LineageOS and Android.
+
+[Android-x86](/wiki/Android-x86 "Android-x86")
+
+Android-x86 is an open source project which produces an unofficial port of the Android mobile operating system. It is developed by the Open Handset Alliance, and is made to run on devices powered by x86 processors, rather than RISC-based ARM chips. Respective mods CyanogenMod and LineageOS for x86 were and are available.
+
+[CalyxOS](/wiki/CalyxOS "CalyxOS")
+
+CalyxOS is an operating system for smartphones based on Android with mostly free and open-source software. It is produced by the [Calyx Institute](/wiki/Calyx_Institute "Calyx Institute") as part of its mission to "defend online privacy, security and accessibility."
+
+[CopperheadOS](/wiki/CopperheadOS "CopperheadOS")
+
+CopperheadOS is a mobile operating system for smartphones, based on the Android mobile platform. It adds privacy and security features to the official releases of the Android Open Source Project by Google.
+
+[CyanogenMod](/wiki/CyanogenMod "CyanogenMod")
+
+A discontinued open-source operating system for mobile devices, based on the [Android](/wiki/Android_(operating_system) "Android (operating system)") mobile platform. LineageOS is an actively maintained [fork](/wiki/Fork_(software_development) "Fork (software development)") of CyanogenMod.[\[121\]](#cite_note-121)[\[122\]](#cite_note-122)
+
+[DivestOS](/wiki/DivestOS "DivestOS")
+
+DivestOS is a free operating system (OS) based on the Android mobile platform. It is a soft fork of LineageOS that aims to increase security and privacy, and support older devices. As much as possible it removes proprietary Android components and includes only free-software.
+
+[Fire OS](/wiki/Fire_OS "Fire OS")
+
+An [Android](/wiki/Android_(operating_system) "Android (operating system)")\-based mobile operating system produced by [Amazon](/wiki/Amazon_(company) "Amazon (company)") for its Fire Phone and Kindle Fire range of tablets, Echo and Echo Dot, and other content delivery devices like Fire TV.
+
+[GrapheneOS](/wiki/GrapheneOS "GrapheneOS")
+
+GrapheneOS (formerly Android Hardening or AndroidHardening) is an Android-based, open source, privacy and security-focused mobile operating system for selected Google Pixel smartphones.
+
+[LineageOS](/wiki/LineageOS "LineageOS")
+
+A [free and open-source](/wiki/Free_and_open-source_software "Free and open-source software") [operating system](/wiki/Operating_system "Operating system") for [smartphones](/wiki/Smartphone "Smartphone"), [tablet computers](/wiki/Tablet_computer "Tablet computer"), and [set-top boxes](/wiki/Set-top_box "Set-top box"), based on the [Android](/wiki/Android_(operating_system) "Android (operating system)") mobile platform.
+
+[OmniROM](/wiki/OmniROM "OmniROM")
+
+OmniROM is an open-source operating system for smartphones and tablet computers, based on the Android mobile platform. It involves a number of prominent developers from other projects, including the discontinued CyanogenMod operating system.[\[123\]](#cite_note-123)
+
+[Paranoid Android](/wiki/Paranoid_Android_(software) "Paranoid Android (software)")
+
+Paranoid Android is an open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
+
+[Remix OS](/wiki/Remix_OS "Remix OS")
+
+Remix OS was a computer operating system for personal computers with x86 and ARM architectures that, prior to discontinuation of development, shipped with a number of 1st- and 3rd-party devices. Remix OS allowed PC users to run Android mobile apps on any compatible Intel-based PC.
+
+[Replicant](/wiki/Replicant_(operating_system) "Replicant (operating system)")
+
+A free operating system (OS) based on the [Android](/wiki/Android_(operating_system) "Android (operating system)") mobile platform that aims to replace all proprietary Android components with free-software counterparts.
+
+[Resurrection Remix OS](/wiki/Resurrection_Remix_OS "Resurrection Remix OS")
+
+Resurrection Remix OS, abbreviated as RR, is a free and open-source operating system for smartphones and tablet computers, based on the Android mobile platform.
+
+Source-based
+------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=19 "Edit section: Source-based")\]
+
+Distribution
+
+Description
+
+[CRUX](/wiki/CRUX "CRUX")
+
+CRUX is a lightweight, [x86-64](/wiki/X86-64 "X86-64")\-optimized Linux distribution targeted at experienced users. The focus is "[keep it simple](/wiki/KISS_principle "KISS principle")", which is reflected in a simple [tar.xz](/wiki/Tar.xz "Tar.xz")\-based package system, [BSD](/wiki/BSD "BSD")\-style initscripts, and a relatively small collection of trimmed packages. Inspiration for [Arch Linux](/wiki/Arch_Linux "Arch Linux").
+
+[GNU Guix System](/wiki/GNU_Guix_System "GNU Guix System")
+
+A distribution built around the [GNU Guix](/wiki/GNU_Guix "GNU Guix") package manager, which provides [purely functional](/wiki/Pure_function "Pure function") package management with build automation, build isolation, easy system upgrades and rollbacks, and an emphasis on free software.[\[124\]](#cite_note-124) Supports amongst others unprivileged package management and per-user profiles.
+
+[GoboLinux](/wiki/GoboLinux "GoboLinux")
+
+A Linux distribution which redefines the [file system](/wiki/File_system "File system") hierarchy by installing everything belonging to one application in one folder under /Programs, and using symlinks from /System and its subfolders to point to the proper files.
+
+[NixOS](/wiki/NixOS "NixOS")
+
+Declarative Linux distribution with atomic upgrades and rollbacks built on top of [Nix package manager](/wiki/Nix_package_manager "Nix package manager"). Any package build is able to be freely edited and rebuilt from source. An official binary cache is also available for unmodified packages.
+
+[Source Mage](/wiki/Source_Mage "Source Mage")
+
+A source code-based Linux distribution, descended from Sorcerer.
+
+[T2 SDE](/wiki/T2_SDE "T2 SDE")
+
+A System Development Environment for building a Linux distribution.
+
+Other distributions
+-------------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=20 "Edit section: Other distributions")\]
+
+The following distributions have not been categorized under the preceding sections.
+
+Distribution
+
+Description
+
+[4MLinux](/wiki/4MLinux "4MLinux")
+
+A lightweight Linux distribution made for both 32-bit and 64-bit. When installing programs with the distribution, the distribution will retrieve the Windows version rather than the Linux version due to it coming pre-installed with Wine (A compatibility layer for Windows applications), and not having any package manager.
+
+[Alpine Linux](/wiki/Alpine_Linux "Alpine Linux")
+
+A security-oriented, lightweight Linux distribution based on [musl](/wiki/Musl "Musl") and [BusyBox](/wiki/BusyBox "BusyBox"). Has a derivative, [postmarketOS](/wiki/PostmarketOS "PostmarketOS"), for mobile devices.
+
+[Android](/wiki/Android_(operating_system) "Android (operating system)")
+
+A open source operating system that uses a modified Linux kernel, it is primarily developed by [Google](/wiki/Google "Google"). For a list of Android-based operating systems, See: [List of custom Android distributions](/wiki/List_of_custom_Android_distributions "List of custom Android distributions")
+
+[CHAOS](/wiki/CHAOS_(operating_system) "CHAOS (operating system)")
+
+a small (6 MB) Linux distribution designed for creating ad hoc computer clusters.
+
+[Chimera Linux](/wiki/Chimera_Linux "Chimera Linux")
+
+An independent Linux distribution that uses [FreeBSD](/wiki/FreeBSD "FreeBSD") utilities, [LLVM](/wiki/LLVM "LLVM") and [Clang](/wiki/Clang "Clang") for compiling software, dinit init system, and [musl](/wiki/Musl "Musl") libc.
+
+[Clear Linux OS](/wiki/Clear_Linux_OS "Clear Linux OS")
+
+[Intel](/wiki/Intel "Intel")'s rolling-release Linux distribution, optimized for Intel's own processors for performance and security.
+
+[DD-WRT](/wiki/DD-WRT "DD-WRT")
+
+Embedded firewall Linux distribution.
+
+[Dragora GNU/Linux-Libre](/wiki/Dragora_GNU/Linux-Libre "Dragora GNU/Linux-Libre")
+
+A Linux distribution written entirely from scratch[\[125\]](#cite_note-125) and sharing some similarities with [Slackware](/wiki/Slackware "Slackware"). Approved by the GNU Project as a [free](/wiki/The_Free_Software_Definition "The Free Software Definition") operating system.[\[126\]](#cite_note-126)
+
+[ELinOS](/wiki/ELinOS "ELinOS")
+
+Linux distribution for [embedded systems](/wiki/Embedded_system "Embedded system") by [SYSGO](/wiki/SYSGO "SYSGO"). [ELinOS](/wiki/ELinOS "ELinOS") focuses on industrial application and provides [real-time extensions](/wiki/Real-time_computing "Real-time computing").
+
+[Firefox OS](/wiki/Firefox_OS "Firefox OS")
+
+A discontinued open-source operating system – made for smartphones, tablet computers and smart TVs – designed by [Mozilla](/wiki/Mozilla_Corporation "Mozilla Corporation") and external contributors.
+
+[fli4l](/wiki/Fli4l "Fli4l")
+
+A router and firewall Linux distribution[\[127\]](#cite_note-127)
+
+[Foresight Linux](/wiki/Foresight_Linux "Foresight Linux")
+
+A [rolling release](/wiki/Rolling_release "Rolling release") Linux distribution built around the Conary package manager.
+
+[GeeXboX](/wiki/GeeXboX "GeeXboX")
+
+[Live CD](/wiki/Live_CD "Live CD") media center Linux distribution, mainly to play special-encoded video files (e.g.: .ogg, XVID) on home theater.
+
+[Jlime](/wiki/Jlime "Jlime")
+
+Linux distribution for the [HP](/wiki/Hewlett-Packard "Hewlett-Packard") [Jornada](/wiki/Jornada_(PDA) "Jornada (PDA)") 6xx and 7xx and [NEC](/wiki/NEC "NEC") [MobilePro 900(c)](/wiki/MobilePro#MobilePro_900 "MobilePro") handhelds.
+
+[KaiOS](/wiki/KaiOS "KaiOS")
+
+A mobile operating system based on [Linux](/wiki/Linux "Linux"), developed by KaiOS Technologies, a US-based company.
+
+[Kwort](/wiki/Kwort "Kwort")
+
+A distribution originally based on CRUX. Contrary to CRUX, the user does not need to compile a new kernel.
+
+[Lightweight Portable Security](/wiki/Lightweight_Portable_Security "Lightweight Portable Security") (LPS)
+
+A [CRUX](/wiki/CRUX "CRUX")\-based distribution created by the [United States Department of Defense](/wiki/United_States_Department_of_Defense "United States Department of Defense") that boots entirely in [RAM](/wiki/Random_Access_Memory "Random Access Memory")[\[128\]](#cite_note-128)[\[129\]](#cite_note-129)
+
+[LinuxConsole](/wiki/LinuxConsole "LinuxConsole")
+
+Independently developed lightweight distribution for old computers made with causal users and youth in mind.
+
+[Linux for PlayStation 2](/wiki/Linux_for_PlayStation_2 "Linux for PlayStation 2")
+
+[Sony Computer Entertainment](/wiki/Sony_Computer_Entertainment "Sony Computer Entertainment") Linux distribution released officially for the [PlayStation 2](/wiki/PlayStation_2 "PlayStation 2") [video game](/wiki/Video_game "Video game") console.
+
+[Linux Router Project](/wiki/Linux_Router_Project "Linux Router Project")
+
+Embedded networking appliance progenitor (defunct).
+
+[MeeGo](/wiki/MeeGo "MeeGo")
+
+A discontinued [Linux distribution](/wiki/Linux_distribution "Linux distribution") hosted by [the Linux Foundation](/wiki/Linux_Foundation "Linux Foundation"), using source code from the operating systems Moblin (produced by [Intel](/wiki/Intel "Intel")) and Maemo (produced by [Nokia](/wiki/Nokia "Nokia")).
+
+[MkLinux](/wiki/MkLinux "MkLinux")
+
+A legacy Linux distribution for [PowerPC](/wiki/PowerPC "PowerPC") systems that runs the Linux kernel as a server on top of the [Mach microkernel](/wiki/Mach_microkernel "Mach microkernel").
+
+[Nitix](/wiki/Nitix "Nitix")
+
+Developed by Net Integration Technologies Inc., Nitix claims to be the first [autonomic](/wiki/Autonomic_system_(computing) "Autonomic system (computing)") Linux kernel–based server operating system.
+
+[MontaVista Linux](/wiki/MontaVista_Linux "MontaVista Linux")
+
+[Embedded](/wiki/Embedded_system "Embedded system") distribution by [MontaVista Software](/wiki/MontaVista "MontaVista").
+
+[OpenWrt](/wiki/OpenWrt "OpenWrt")
+
+A router and firewall Linux distribution, also other [embedded systems](/wiki/Embedded_system "Embedded system"), a lot of routing options via [opkg](/wiki/Opkg "Opkg") available.
+
+[postmarketOS](/wiki/PostmarketOS "PostmarketOS")
+
+A security-oriented, lightweight distribution for mobile devices.
+
+[Prevas Industrial Linux](/wiki/Prevas "Prevas")
+
+Embedded systems customizable Linux distribution by [Prevas](/wiki/Prevas "Prevas").
+
+[Puppy Linux](/wiki/Puppy_Linux "Puppy Linux")
+
+A mini Linux distribution which runs well under low-end PCs – even under 32 MB RAM.
+
+[rPath](/wiki/RPath "RPath")
+
+A distribution built around the Conary package manager. Discontinued.
+
+[SliTaz](/wiki/SliTaz_GNU/Linux "SliTaz GNU/Linux")
+
+With less than 40 MB a very small Live-Distribution, which uses 256 MB RAM (or with a special edition only 24 MB[\[130\]](#cite_note-130)) for a complete [GUI](/wiki/Graphical_user_interface "Graphical user interface").
+
+[Smallfoot](/wiki/Caldera_Smallfoot "Caldera Smallfoot")
+
+Embedded, gaming and point-of-sale Linux distribution developed by the Santa Cruz Operation (SCO), formerly [Caldera International](/wiki/Caldera_International "Caldera International") and [Caldera Systems](/wiki/Caldera_Systems "Caldera Systems") – based on Caldera OpenLinux 3.x and 4.x binaries.
+
+[SmoothWall](/wiki/SmoothWall "SmoothWall")
+
+A router and firewall Linux distribution.
+
+[paldo](/wiki/Paldo_(operating_system) "Paldo (operating system)")
+
+Independently developed desktop operating system and package manager (upkg) with a rolling release format and standard Gnome environment.
+
+[Sailfish OS](/wiki/Sailfish_OS "Sailfish OS")
+
+A Linux-based operating system based on open source projects such as Mer and including a closed source UI. The project is being developed by the Finnish company [Jolla](/wiki/Jolla "Jolla").
+
+[Solus](/wiki/Solus_project "Solus project")
+
+Desktop Linux distribution offering Budgie, GNOME, MATE and KDE Plasma desktop environments, eopkg for package management.
+
+[Tinfoil Hat Linux](/wiki/Tinfoil_Hat_Linux "Tinfoil Hat Linux")
+
+Bootable floppy Linux distribution focusing on extreme security.
+
+[Tiny Core Linux](/wiki/Tiny_Core_Linux "Tiny Core Linux")
+
+A minimalist (around 10 MB) Linux system focusing on providing a base system with BusyBox, FLTK and other minimalist software.
+
+[Tizen](/wiki/Tizen "Tizen")
+
+A Linux-based mobile operating system backed by the [Linux Foundation](/wiki/Linux_Foundation "Linux Foundation") but developed and used primarily by [Samsung Electronics](/wiki/Samsung_Electronics "Samsung Electronics").
+
+[tomsrtbt](/wiki/Tomsrtbt "Tomsrtbt")
+
+Root boot from floppy disk. Last update May 2002.
+
+[Void Linux](/wiki/Void_Linux "Void Linux")
+
+An independent Linux distribution based on the XBPS package management system and [runit](/wiki/Runit "Runit"), without [systemd](/wiki/Systemd "Systemd") dependency.
+
+Historical distributions
+------------------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=21 "Edit section: Historical distributions")\]
+
+Distribution
+
+Description
+
+[MCC Interim Linux](/wiki/MCC_Interim_Linux "MCC Interim Linux")
+
+Possibly the first Linux distribution, created by the Manchester Computing Centre in February 1992.
+
+[Softlanding Linux System](/wiki/Softlanding_Linux_System "Softlanding Linux System")
+
+One of the earliest Linux distributions, developed from 1992 to 1994; [Slackware](/wiki/Slackware "Slackware") was originally based on it.
+
+[Yggdrasil Linux/GNU/X](/wiki/Yggdrasil_Linux/GNU/X "Yggdrasil Linux/GNU/X")
+
+One of the oldest Linux distributions (December 1992), not updated since 1995.
+
+See also
+--------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=22 "Edit section: See also")\]
+
+.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:1px solid var(--border-color-base,#a2a9b1);padding:0.1em;background:var(--background-color-neutral-subtle,#f8f9fa)}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}
+
+*   ![](//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/28px-Free_and_open-source_software_logo_%282009%29.svg.png)[Free and open-source software portal](/wiki/Portal:Free_and_open-source_software "Portal:Free and open-source software")
+*   [![icon](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/23px-NewTux.svg.png)](/wiki/File:NewTux.svg)[Linux portal](/wiki/Portal:Linux "Portal:Linux")
+
+*   [Comparison of Linux distributions](/wiki/Comparison_of_Linux_distributions "Comparison of Linux distributions")
+*   [Comparison of netbook-oriented Linux distributions](/wiki/Comparison_of_netbook-oriented_Linux_distributions "Comparison of netbook-oriented Linux distributions")
+*   [DistroWatch](/wiki/DistroWatch "DistroWatch")
+*   [Linux on PowerPC](/wiki/PowerLinux "PowerLinux")
+*   [Linux on IBM Z](/wiki/Linux_on_IBM_Z "Linux on IBM Z")
+*   [List of live CDs](/wiki/List_of_live_CDs "List of live CDs")
+*   [List of router and firewall distributions](/wiki/List_of_router_and_firewall_distributions "List of router and firewall distributions")
+
+References
+----------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=23 "Edit section: References")\]
+
+.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+1.  **[^](#cite_ref-1)** .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\\"""\\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}["Linux Distributions Timeline"](https://github.com/FabioLolix/LinuxTimeline). FabioLolix. [Archived](https://web.archive.org/web/20201112030654/https://github.com/FabioLolix/LinuxTimeline) from the original on November 12, 2020. Retrieved October 28, 2021.
+2.  **[^](#cite_ref-2)** ["Ubuntu Manpage: deb - Debian binary package format"](https://web.archive.org/web/20130607083816/http://manpages.ubuntu.com/manpages/lucid/man5/deb.5.html). Manpages.ubuntu.com. Archived from [the original](http://manpages.ubuntu.com/manpages/lucid/man5/deb.5.html) on 2013-06-07. Retrieved 2013-07-05.
+3.  **[^](#cite_ref-3)** ["Ubuntu Manpage: dpkg - package manager for Debian"](https://web.archive.org/web/20130607091301/http://manpages.ubuntu.com/manpages/hardy/en/man1/dpkg.1.html). _ManPages.Ubuntu.com_. Archived from [the original](http://manpages.ubuntu.com/manpages/hardy/en/man1/dpkg.1.html) on 2013-06-07. Retrieved 2013-07-05.
+4.  **[^](#cite_ref-4)** ["архив"](https://old.computerra.ru/). _old.computerra.ru_ (in Russian). [Archived](https://web.archive.org/web/20241010054054/https://old.computerra.ru/) from the original on 2024-10-10. Retrieved 2019-11-21.
+5.  **[^](#cite_ref-5)** ["Home - FSTEC Russia"](https://fstec.ru/en/). _fstec.ru_. [Archived](https://web.archive.org/web/20130218054319/https://fstec.ru/en/) from the original on 2013-02-18. Retrieved 2019-11-21.
+6.  **[^](#cite_ref-6)** ["Сертификаты соответствия"](https://web.archive.org/web/20180304231836/http://www.astra-linux.com/sertifikat.html). 2018-03-04. Archived from [the original](http://www.astra-linux.com/sertifikat.html) on 2018-03-04. Retrieved 2019-11-21.
+7.  **[^](#cite_ref-7)** ["Indian Government's BOSS Operating System Set To Replace Windows, Ward Off Hackers"](https://www.ibtimes.com/indian-governments-boss-operating-system-set-replace-windows-ward-hackers-2099282). _www.ibtimes.com_. 16 September 2015. [Archived](https://web.archive.org/web/20231211170125/https://www.ibtimes.com/indian-governments-boss-operating-system-set-replace-windows-ward-hackers-2099282) from the original on 2023-12-11. Retrieved 2019-07-22.
+8.  **[^](#cite_ref-8)** ["Canaima website"](https://web.archive.org/web/20121130100717/http://canaima.softwarelibre.gob.ve/). Archived from [the original](http://canaima.softwarelibre.gob.ve/) on 2012-11-30. Retrieved 2012-11-29.
+9.  **[^](#cite_ref-9)** ["The story of a failure (Corel) - OpenLife.cc"](https://openlife.cc/onlinebook/story-failure-corel). _openlife.cc_. [Archived](https://web.archive.org/web/20120103110136/https://openlife.cc/onlinebook/story-failure-corel) from the original on 2012-01-03. Retrieved 2012-11-29.
+10.  **[^](#cite_ref-10)** [CrunchBang Linux website](https://www.crunchbang.org/) [Archived](https://web.archive.org/web/20121126092058/http://crunchbang.org/) 2012-11-26 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+11.  **[^](#cite_ref-11)** ["The end. / News & Announcements / CrunchBang Linux Forums"](http://crunchbang.org/forums/viewtopic.php?id=38916). _CrunchBang Linux Forums_. [Archived](https://web.archive.org/web/20150216210207/http://crunchbang.org/forums/viewtopic.php?id=38916) from the original on 2015-02-16. Retrieved 2015-04-23.
+12.  **[^](#cite_ref-12)** Stahie, Silviu (28 November 2014). ["Fork Debian Project Announces the Systemd-less OS Devuan"](http://news.softpedia.com/news/Fork-Debian-Project-Announces-the-Systemd-less-OS-Devuan-466178.shtml). _Softpedia_. [Archived](https://web.archive.org/web/20141130142144/http://news.softpedia.com/news/Fork-Debian-Project-Announces-the-Systemd-less-OS-Devuan-466178.shtml) from the original on 30 November 2014. Retrieved 30 November 2014.
+13.  **[^](#cite_ref-13)** ["Emdebian Grip packages: A smaller Debian-compatible distro"](https://web.archive.org/web/20131130072443/https://www.emdebian.org/grip/). emdebian.org. Archived from [the original](https://www.emdebian.org/grip/) on 2013-11-30. Retrieved 2014-01-20.
+14.  **[^](#cite_ref-14)** ["Finnix"](https://www.finnix.org/). _www.finnix.org_. [Archived](https://web.archive.org/web/20181224074057/https://www.finnix.org/) from the original on 2018-12-24. Retrieved 2018-12-23.
+15.  **[^](#cite_ref-15)** ["grml.org - Debian Live system / CD for sysadmins and texttool-users"](http://grml.org/). _grml.org_. [Archived](https://web.archive.org/web/20121206084858/http://grml.org/) from the original on 2012-12-06. Retrieved 2012-11-29.
+16.  **[^](#cite_ref-16)** Wiki Debian [HandyLinux Debian Derivatives Census](https://wiki.debian.org/Derivatives/Census/HandyLinux) [Archived](https://web.archive.org/web/20160103005216/https://wiki.debian.org/Derivatives/Census/HandyLinux) 2016-01-03 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+17.  **[^](#cite_ref-17)** ["Our Most Advanced Penetration Testing Distribution, Ever"](http://www.kali.org/). _www.kali.org_. [Archived](https://web.archive.org/web/20130402210749/http://www.kali.org/) from the original on 2013-04-02. Retrieved 2013-03-28.
+18.  **[^](#cite_ref-BackTrack_website_18-0)** ["BackTrack Linux - Penetration Testing Distribution"](http://www.backtrack-linux.org/). _www.backtrack-linux.org_. [Archived](https://web.archive.org/web/20121130143122/http://www.backtrack-linux.org/) from the original on 2012-11-30. Retrieved 2012-11-30.
+19.  **[^](#cite_ref-19)** ["Kali Linux Has Been Released!"](http://www.offensive-security.com/kali-distribution/kali-linux-released/). 2013-03-12. [Archived](https://web.archive.org/web/20130509043312/http://www.offensive-security.com/kali-distribution/kali-linux-released/) from the original on 2013-05-09. Retrieved 2013-03-18.
+20.  **[^](#cite_ref-20)** ["kanotix.com :: GNU Linux Live system based on Debian, optimized for HD-install and high performance"](http://www.kanotix.com/). _www.kanotix.com_. [Archived](https://web.archive.org/web/20121127015738/http://www.kanotix.com/) from the original on 2012-11-27. Retrieved 2012-11-29.
+21.  **[^](#cite_ref-21)** ["LEAF — Linux Embedded Appliance Firewall"](http://leaf.sourceforge.net/). _leaf.sourceforge.net_. [Archived](https://web.archive.org/web/20121107015504/http://leaf.sourceforge.net/) from the original on 2012-11-07. Retrieved 2012-11-29.
+22.  **[^](#cite_ref-22)** ["LiMux website"](http://lgict.org.za/document/limux-%E2%80%93-free-software-munich). [Archived](https://web.archive.org/web/20140702032443/http://lgict.org.za/document/limux-%E2%80%93-free-software-munich) from the original on 2014-07-02. Retrieved 2012-11-29.
+23.  **[^](#cite_ref-23)** ["Linux Mint Debian Edition"](https://linuxmint.com/download_lmde.php). [Archived](https://web.archive.org/web/20100910004952/https://linuxmint.com/download_lmde.php) from the original on 2010-09-10. Retrieved 2021-05-20.
+24.  **[^](#cite_ref-24)** ["maemo.org - maemo.org: Home of the Maemo community"](http://maemo.org/). _maemo.org_. 1 December 2006. [Archived](https://web.archive.org/web/20121123114615/http://maemo.org/) from the original on 23 November 2012. Retrieved 29 November 2012.
+25.  **[^](#cite_ref-25)** ["Home"](http://www.mintppc.org/). _Mint PPC_. [Archived](https://web.archive.org/web/20101013025534/http://mintppc.org/) from the original on 2010-10-13. Retrieved 2018-12-23.
+26.  **[^](#cite_ref-26)** [Musix GNU+Linux website](http://www.musix.org.ar/en/) [Archived](https://web.archive.org/web/20130401074214/http://www.musix.org.ar/en/) 2013-04-01 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+27.  **[^](#cite_ref-27)** ["MX Linux - MX Community"](https://mxlinux.org/). _mxlinux.org_. [Archived](https://web.archive.org/web/20161113040247/https://mxlinux.org/) from the original on 2016-11-13. Retrieved 2018-12-23.
+28.  **[^](#cite_ref-28)** ["nepalinux.org - Home"](https://web.archive.org/web/20110312003906/http://www.nepalinux.org/). _www.nepalinux.org_. Archived from the original on 2011-03-12. Retrieved 2012-11-29.
+29.  **[^](#cite_ref-29)** ["Apache2 Debian Default Page: It works"](https://web.archive.org/web/20020330152808/http://www.openzaurus.org/). _www.openzaurus.org_. Archived from [the original](http://www.openzaurus.org/) on 2002-03-30. Retrieved 2012-11-29.
+30.  **[^](#cite_ref-30)** ["News – Parsix GNU/Linux - Desktop Linux Operating System"](https://archive.today/20170903125016/http://www.parsix.org/wiki/News). Archived from [the original](http://www.parsix.org/wiki/News) on 2017-09-03.
+31.  **[^](#cite_ref-31)** ["Parsix website"](https://web.archive.org/web/20080907133354/http://parsix.org/). Archived from [the original](http://www.parsix.org/) on 2008-09-07. Retrieved 2012-11-29.
+32.  **[^](#cite_ref-32)** ["PelcianHPC"](https://web.archive.org/web/20160717090223/http://pelicanhpc.awict.net/). _pelicanhpc.awict.net_. Archived from [the original](http://pelicanhpc.awict.net/) on 2016-07-17. Retrieved 2018-12-23.
+33.  **[^](#cite_ref-33)** ["GNU.org"](https://www.gnu.org/distros/free-distros.html). [Archived](https://web.archive.org/web/20141216063244/http://www.gnu.org/distros/free-distros.html) from the original on 2014-12-16.
+34.  **[^](#cite_ref-34)** ["FSF adds PureOS to list of endorsed GNU/Linux distributions — Free Software Foundation — working together for free software"](https://www.fsf.org/news/fsf-adds-pureos-to-list-of-endorsed-gnu-linux-distributions-1). _www.fsf.org_. [Archived](https://web.archive.org/web/20190622014743/https://www.fsf.org/news/fsf-adds-pureos-to-list-of-endorsed-gnu-linux-distributions-1) from the original on 2019-06-22. Retrieved 2019-07-19.
+35.  **[^](#cite_ref-35)** ["DistroWatch.com: PureOS"](https://distrowatch.com/table.php?distribution=pureos). _distrowatch.com_. [Archived](https://web.archive.org/web/20190406110001/https://distrowatch.com/table.php?distribution=pureos) from the original on 2019-04-06. Retrieved 2019-07-19.
+36.  **[^](#cite_ref-36)** ["PureOS: One Linux for both PCs and smartphones"](https://www.zdnet.com/article/pureos-one-linux-for-both-pcs-and-smartphones/). _[ZDNet](/wiki/ZDNet "ZDNet")_. [Archived](https://web.archive.org/web/20190325143606/https://www.zdnet.com/article/pureos-one-linux-for-both-pcs-and-smartphones/) from the original on 2019-03-25. Retrieved 2019-07-19.
+37.  **[^](#cite_ref-37)** ["Q4OS"](https://q4os.org/index.html). [Archived](https://web.archive.org/web/20140912083411/https://q4os.org/index.html) from the original on 2014-09-12. Retrieved 2021-10-30.
+38.  **[^](#cite_ref-38)** ["SolydXK Community — English"](https://solydxk.com/). _solydxk.com_. [Archived](https://web.archive.org/web/20190122092515/https://solydxk.com/) from the original on 2019-01-22. Retrieved 2018-12-23.
+39.  **[^](#cite_ref-39)** [Sunwah Linux website](http://www.sw-linux.com/en/scripts/main/index.php) [Archived](https://web.archive.org/web/20120911140109/http://www.sw-linux.com/en/scripts/main/index.php) 2012-09-11 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+40.  **[^](#cite_ref-40)** ["Tails - Privacy for anyone anywhere"](https://tails.boum.org/). _tails.boum.org_. [Archived](https://web.archive.org/web/20121105062508/https://tails.boum.org/) from the original on 2012-11-05. Retrieved 2012-11-29.
+41.  **[^](#cite_ref-41)** ["TurnKey Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal"](https://www.turnkeylinux.org/). _www.turnkeylinux.org_. [Archived](https://web.archive.org/web/20181224073936/https://www.turnkeylinux.org/) from the original on 2018-12-24. Retrieved 2018-12-23.
+42.  **[^](#cite_ref-42)** ["UCS Univention Corporate Server: easy-to-use IT operations"](https://www.univention.com/products/ucs/). [Archived](https://web.archive.org/web/20190128215223/https://www.univention.com/products/ucs/) from the original on 2019-01-28. Retrieved 2018-12-23.
+43.  **[^](#cite_ref-43)** ["OPENSOURCE Web Kiosk software by Webconverger"](https://webconverger.com/). _webconverger.com_. [Archived](https://web.archive.org/web/20190122050502/https://webconverger.com/) from the original on 2019-01-22. Retrieved 2018-12-23.
+44.  **[^](#cite_ref-44)** [Vyatta website](http://www.vyatta.org/) [Archived](https://web.archive.org/web/20120424205015/http://www.vyatta.org/) 2012-04-24 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+45.  **[^](#cite_ref-45)** ["About Ubuntu Derivatives"](http://www.ubuntu.com/project/about-ubuntu/derivatives). _[Ubuntu](/wiki/Ubuntu "Ubuntu")_. [Archived](https://web.archive.org/web/20120814130011/http://www.ubuntu.com/project/about-ubuntu/derivatives) from the original on August 14, 2012. Retrieved August 19, 2012.
+46.  **[^](#cite_ref-46)** ["Ubuntu flavours | Ubuntu"](https://ubuntu.com/desktop/flavours). [Archived](https://web.archive.org/web/20220704094919/https://ubuntu.com/desktop/flavours) from the original on 2022-07-04. Retrieved 2022-11-30.
+47.  **[^](#cite_ref-47)** ["Edubuntu"](https://www.edubuntu.org/). _www.edubuntu.org_. [Archived](https://web.archive.org/web/20240930020906/https://www.edubuntu.org/) from the original on 2024-09-30. Retrieved 2005-10-15.
+48.  **[^](#cite_ref-48)** ["Kubuntu - Friendly Computing"](https://www.kubuntu.org/). [Archived](https://web.archive.org/web/20241008075614/https://www.kubuntu.org/) from the original on 2024-10-08. Retrieved 2018-12-23.
+49.  **[^](#cite_ref-Distrowatch11May09_49-0)** Smart, Chris (May 2009). ["Another day, another Ubuntu derivative"](http://distrowatch.com/weekly.php?issue=20090511#news). [Archived](https://web.archive.org/web/20120121065012/http://distrowatch.com/weekly.php?issue=20090511#news) from the original on 2012-01-21. Retrieved 2009-05-21.
+50.  **[^](#cite_ref-LXDEBlog_50-0)** [LXDE](/wiki/LXDE "LXDE") (February 2009). ["Lubuntu? LXDE Meet up with Mark Shuttleworth in Berlin"](http://blog.lxde.org/?p=208). [Archived](https://web.archive.org/web/20120224015352/http://blog.lxde.org/?p=208) from the original on 2012-02-24. Retrieved 2009-05-21.
+51.  **[^](#cite_ref-51)** ["lubuntu"](https://lubuntu.net/). _lubuntu_. [Archived](https://web.archive.org/web/20181221225231/https://lubuntu.net/) from the original on 2018-12-21. Retrieved 2018-12-23.
+52.  **[^](#cite_ref-52)** Sneddon, Joey (2023-03-28). ["Ubuntu Cinnamon Now Official Ubuntu Flavour"](https://www.omgubuntu.co.uk/2023/03/ubuntu-cinnamon-new-official-flavor). _OMG! Ubuntu!_. Retrieved 2023-04-04.
+53.  **[^](#cite_ref-Sneddon01Mar15_53-0)** Sneddon, Joey (1 March 2015). ["Ubuntu 15.04 Beta Available to Download, Ubuntu MATE Is Now An Official Flavor"](http://www.omgubuntu.co.uk/2015/02/ubuntu-15-04-beta-downloads-now-live-ubuntu-mate-made-an-official-flavor). _OMG Ubuntu_. [Archived](https://web.archive.org/web/20150317051604/http://www.omgubuntu.co.uk/2015/02/ubuntu-15-04-beta-downloads-now-live-ubuntu-mate-made-an-official-flavor) from the original on 17 March 2015. Retrieved 1 March 2015.
+54.  **[^](#cite_ref-54)** ["Ubuntu Server - for scale out workloads - Ubuntu"](https://www.ubuntu.com/server). _www.ubuntu.com_. [Archived](https://web.archive.org/web/20181223192409/https://www.ubuntu.com/server) from the original on 2018-12-23. Retrieved 2018-12-23.
+55.  **[^](#cite_ref-55)** ["Ubuntu Studio"](http://ubuntustudio.org/). [Archived](https://web.archive.org/web/20130307102013/http://ubuntustudio.org/) from the original on 2013-03-07. Retrieved 2012-11-29.
+56.  **[^](#cite_ref-Evangelho12May20_56-0)** Evangelho, Jason (12 May 2020). ["A Surprising New Remix Of Ubuntu 20.04 Brings Unity Back To Life"](https://www.forbes.com/sites/jasonevangelho/2020/05/12/a-surprising-new-remix-of-ubuntu-2004-revives-the-unity-desktop/#1634f35c275b). _[Forbes](/wiki/Forbes "Forbes")_. [Archived](https://archive.today/20200620203216/https://www.forbes.com/sites/jasonevangelho/2020/05/12/a-surprising-new-remix-of-ubuntu-2004-revives-the-unity-desktop/%235fae9b1d275b) from the original on 20 June 2020. Retrieved 20 June 2020.
+57.  **[^](#cite_ref-57)** ["Ubuntu Unity Becoming An Official Flavor With 22.10 Release"](https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official). _www.phoronix.com_. [Archived](https://web.archive.org/web/20221022000933/https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official) from the original on 2022-10-22. Retrieved 2022-10-22.
+58.  **[^](#cite_ref-58)** ["Xubuntu"](https://xubuntu.org/). _xubuntu.org_. [Archived](https://web.archive.org/web/20181226084929/https://xubuntu.org/) from the original on 2018-12-26. Retrieved 2018-12-23.
+59.  **[^](#cite_ref-59)** ["Gobuntu - Ubuntu Wiki"](https://wiki.ubuntu.com/Gobuntu). _wiki.ubuntu.com_. [Archived](https://web.archive.org/web/20120728113739/https://wiki.ubuntu.com/Gobuntu) from the original on 2012-07-28. Retrieved 2012-11-30.
+60.  **[^](#cite_ref-60)** ["Mythbuntu"](https://web.archive.org/web/20121130183937/http://mythbuntu.org/). _www.mythbuntu.org_. Archived from [the original](http://www.mythbuntu.org/) on 2012-11-30. Retrieved 2012-11-29.
+61.  **[^](#cite_ref-61)** Tim (11 March 2013). ["Ubuntu GNOME approved as official flavour - Ubuntu GNOME"](http://ubuntugnome.org/ubuntu-gnome-approved-as-an-official-flavour/). [Archived](https://web.archive.org/web/20130602084155/http://ubuntugnome.org/ubuntu-gnome-approved-as-an-official-flavour/) from the original on 2013-06-02. Retrieved 2013-06-27.
+62.  **[^](#cite_ref-62)** ["Ubuntu GNOME - An official flavor of Ubuntu, featuring the GNOME desktop environment"](http://ubuntugnome.org/). [Archived](https://web.archive.org/web/20130606112502/http://ubuntugnome.org/) from the original on 2013-06-06. Retrieved 2013-06-27.
+63.  **[^](#cite_ref-63)** ["JeOS - Community Help Wiki"](https://help.ubuntu.com/community/JeOS). _help.ubuntu.com_. [Archived](https://web.archive.org/web/20121023003610/https://help.ubuntu.com/community/JeOS) from the original on 2012-10-23. Retrieved 2012-11-29.
+64.  **[^](#cite_ref-64)** ["Ubuntu to announce its mobile Linux in June"](http://news.cnet.com/8301-13580_3-9950552-39.html). [Archived](https://web.archive.org/web/20080905053516/http://news.cnet.com/8301-13580_3-9950552-39.html) from the original on 2008-09-05. Retrieved 2009-03-23.
+65.  **[^](#cite_ref-65)** [Ubuntu TV website](http://www.ubuntu.com/devices/tv) [Archived](https://web.archive.org/web/20121127205500/http://www.ubuntu.com/devices/tv) 2012-11-27 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+66.  **[^](#cite_ref-66)** ["Homepage"](https://www.backbox.org/). _BackBox.org_. [Archived](https://web.archive.org/web/20181224074209/https://www.backbox.org/) from the original on 2018-12-24. Retrieved 2018-12-23.
+67.  **[^](#cite_ref-67)** ["Welcome"](https://www.bodhilinux.com/). 10 August 2014. [Archived](https://web.archive.org/web/20181215131915/https://www.bodhilinux.com/) from the original on 15 December 2018. Retrieved 23 December 2018.
+68.  **[^](#cite_ref-68)** ["Which Linux Chrome OS Clone is Right For You?"](https://www.linux.com/learn/which-linux-chrome-os-clone-right-you). _Linux.com - The source for Linux information_. 17 July 2015. [Archived](https://web.archive.org/web/20180715210632/https://www.linux.com/learn/which-linux-chrome-os-clone-right-you) from the original on 15 July 2018. Retrieved 16 July 2018.
+69.  **[^](#cite_ref-69)** ["Chromixium Adds Polish to Chrome - Reviews - LinuxInsider"](https://www.linuxinsider.com/story/82107.html). _www.linuxinsider.com_. 29 May 2015. [Archived](https://web.archive.org/web/20180715235535/https://www.linuxinsider.com/story/82107.html) from the original on 2018-07-15. Retrieved 2018-07-16.
+70.  **[^](#cite_ref-70)** ["Cub Linux Is a Worthy Chromixium Offspring - Reviews - LinuxInsider"](https://www.linuxinsider.com/story/83878.html). _www.linuxinsider.com_. 9 September 2016. [Archived](https://web.archive.org/web/20180715210737/https://www.linuxinsider.com/story/83878.html) from the original on 2018-07-15. Retrieved 2018-07-16.
+71.  **[^](#cite_ref-71)** ["dyne:bolic website"](http://www.dynebolic.org/). [Archived](https://web.archive.org/web/20090710002857/http://www.dynebolic.org/) from the original on 2009-07-10. Retrieved 2012-11-30.
+72.  **[^](#cite_ref-72)** ["EasyPeasy website"](http://www.geteasypeasy.com/). [Archived](https://web.archive.org/web/20121126083716/http://www.geteasypeasy.com/) from the original on 2012-11-26. Retrieved 2012-11-30.
+73.  **[^](#cite_ref-73)** ["Aurora website"](https://web.archive.org/web/20100630075322/http://www.auroraos.org/). Archived from [the original](http://auroraos.org/) on 2010-06-30. Retrieved 2012-11-30.
+74.  **[^](#cite_ref-74)** [Element OS website](http://www.elementmypc.com/main/index.php) [Archived](https://web.archive.org/web/20121121042717/http://www.elementmypc.com/main/index.php) November 21, 2012, at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+75.  **[^](#cite_ref-75)** Inc, elementary. ["The fast, open, and privacy-respecting replacement for Windows and macOS ⋅ elementary OS"](https://elementary.io/). _elementary.io_. [Archived](https://web.archive.org/web/20181224043337/https://elementary.io/) from the original on 2018-12-24. Retrieved 2018-12-23. `{{[cite web](/wiki/Template:Cite_web "Template:Cite web")}}`: `|last=` has generic name ([help](/wiki/Help:CS1_errors#generic_name "Help:CS1 errors"))
+76.  **[^](#cite_ref-76)** ["Emmabuntus:Community portal/en - Emmabuntus"](https://emmabuntus.sourceforge.io/mediawiki/index.php/Emmabuntus:Community_portal/en). _emmabuntus.sourceforge.io_. [Archived](https://web.archive.org/web/20181224074044/https://emmabuntus.sourceforge.io/mediawiki/index.php/Emmabuntus:Community_portal/en) from the original on 2018-12-24. Retrieved 2018-12-23.
+77.  **[^](#cite_ref-77)** Lynch, Jim (2015-11-12). ["GalliumOS Linux beta released for Chromebooks and Chromeboxes"](https://www.infoworld.com/article/3004051/galliumos-beta-released-for-chromebooks-and-chromeboxes.html). _InfoWorld_. [Archived](https://web.archive.org/web/20190323032856/https://www.infoworld.com/article/3004051/galliumos-beta-released-for-chromebooks-and-chromeboxes.html) from the original on 2019-03-23. Retrieved 2020-04-29.
+78.  **[^](#cite_ref-78)** Jolicloud. ["Jolicloud"](https://www.jolicloud.com/). _Jolicloud_. [Archived](https://web.archive.org/web/20110221100048/http://www.jolicloud.com/) from the original on 2011-02-21. Retrieved 2018-12-23.
+79.  **[^](#cite_ref-79)** ["Linux Schools - Linux Schools"](https://www.linuxschools.com/forum/index-main.php). _www.linuxschools.com_. [Archived](https://web.archive.org/web/20181208000929/https://www.linuxschools.com/forum/index-main.php) from the original on 2018-12-08. Retrieved 2018-12-23.
+80.  **[^](#cite_ref-networkworld1_80-0)** Lunduke, Bryan (10 February 2016). ["KDE's new Linux distro KDE Neon: Terrible idea, or simply a mistake?"](https://www.networkworld.com/article/948000/kdes-new-linux-distro-terrible-idea-or-simply-a-huge-mistake.html). [Archived](https://web.archive.org/web/20240426190330/https://www.networkworld.com/article/948000/kdes-new-linux-distro-terrible-idea-or-simply-a-huge-mistake.html) from the original on 2024-04-26. Retrieved 2019-07-05.
+81.  **[^](#cite_ref-81)** ["DistroWatch.com: Linux Caixa Mágica"](https://distrowatch.com/table.php?distribution=caixamagica). _distrowatch.com_. Retrieved 2023-08-28.
+82.  **[^](#cite_ref-82)** ["Linux Lite Easy to Use Free Linux Operating System"](https://www.linuxliteos.com/). _www.linuxliteos.com_. [Archived](https://web.archive.org/web/20160326101458/https://www.linuxliteos.com/) from the original on 2016-03-26. Retrieved 2016-03-26.
+83.  **[^](#cite_ref-83)** Drifter, Carlos Porto of Design. ["Main Page - Linux Mint"](http://linuxmint.com/). _linuxmint.com_. [Archived](https://web.archive.org/web/20121130234754/http://www.linuxmint.com/) from the original on 2012-11-30. Retrieved 2012-11-30.
+84.  **[^](#cite_ref-84)** ["Home: LinuxMCE home automation"](http://www.linuxmce.com/). _www.linuxmce.com_. [Archived](https://web.archive.org/web/20121203081628/http://www.linuxmce.com/) from the original on 2012-12-03. Retrieved 2012-11-30.
+85.  **[^](#cite_ref-85)** [LinuxTLE website](http://www.opentle.org/) [Archived](https://web.archive.org/web/20050913194804/http://www.opentle.org/) 2005-09-13 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+86.  **[^](#cite_ref-86)** ["Mestre a casa - - LliureX - LliureX"](https://mestreacasa.gva.es/web/lliurex/). _mestreacasa.gva.es_. [Archived](https://web.archive.org/web/20130607101833/http://mestreacasa.gva.es/web/lliurex/) from the original on 2013-06-07. Retrieved 2012-11-30.
+87.  **[^](#cite_ref-87)** ["LXLE website"](https://lxle.net/). [Archived](https://web.archive.org/web/20130317023400/https://lxle.net/) from the original on 2013-03-17. Retrieved 2021-10-30.
+88.  **[^](#cite_ref-88)** ["MAX website"](http://www.educa2.madrid.org/web/max). [Archived](https://web.archive.org/web/20100527003238/http://www.educa2.madrid.org/web/max) from the original on 2010-05-27. Retrieved 2012-11-30.
+89.  **[^](#cite_ref-89)** Peri, Dinakar (2023-08-08). ["India Defence Ministry to replace Microsoft OS with Maya"](https://www.thehindu.com/news/national/defence-ministry-to-replace-microsoft-os-with-maya/article67172875.ece). _The Hindu_. [ISSN](/wiki/ISSN_(identifier) "ISSN (identifier)") [0971-751X](https://search.worldcat.org/issn/0971-751X). Retrieved 2024-04-30.
+90.  **[^](#cite_ref-90)** ["Molinux website"](https://web.archive.org/web/20130425113826/http://www.bilib.es/molinux/). Archived from [the original](http://www.bilib.es/molinux/) on 2013-04-25. Retrieved 2013-04-27.
+91.  **[^](#cite_ref-91)** ["Netrunner"](https://www.netrunner.com/). _Netrunner_. [Archived](https://web.archive.org/web/20181127151653/https://www.netrunner.com/) from the original on 2018-11-27. Retrieved 2018-12-23.
+92.  **[^](#cite_ref-92)** ["OpenGEU in Launchpad"](https://launchpad.net/opengeu). _launchpad.net_. 19 September 2008. [Archived](https://web.archive.org/web/20130522040602/https://launchpad.net/opengeu) from the original on 2013-05-22. Retrieved 2013-04-27.
+93.  **[^](#cite_ref-93)** ["About Peppermint OS"](http://www.peppermintos.com/release-notes/). [Archived](https://web.archive.org/web/20101003095716/http://peppermintos.com/release-notes/) from the original on 2010-10-03. Retrieved 2010-09-05.
+94.  **[^](#cite_ref-94)** ["Pinguy OS - Because using a computer is meant to be easy!"](https://web.archive.org/web/20111216144740/http://www.pinguyos.com/). _www.pinguyos.com_. Archived from the original on 2011-12-16. Retrieved 2011-12-17.
+95.  **[^](#cite_ref-95)** ["Sabily website"](https://web.archive.org/web/20180729223804/http://www.sabily.org/website/). Archived from [the original](http://www.sabily.org/website/) on 2018-07-29. Retrieved 2013-04-27.
+96.  **[^](#cite_ref-96)** ["Trisquel GNU/Linux - Run free!"](https://trisquel.info/en). _trisquel.info_. [Archived](https://web.archive.org/web/20181224074203/https://trisquel.info/en) from the original on 2018-12-24. Retrieved 2018-12-23.
+97.  **[^](#cite_ref-97)** ["UberStudent - Linux for Learners"](http://www.uberstudent.org/). _www.uberstudent.org_. [Archived](https://web.archive.org/web/20130602195451/http://uberstudent.org/) from the original on 2013-06-02. Retrieved 2013-04-27.
+98.  **[^](#cite_ref-98)** Saravia, Diego. ["Ututo–Home"](https://web.archive.org/web/20180831091212/http://ututo.org/en/). _ututo.org_. Archived from [the original](https://www.ututo.org/en/) on 31 August 2018. Retrieved 1 February 2017.
+99.  **[^](#cite_ref-99)** ["Vinux website"](https://web.archive.org/web/20130720120346/http://vinuxproject.org/). Archived from [the original](http://vinuxproject.org/) on 2013-07-20. Retrieved 2013-04-27.
+100.  **[^](#cite_ref-100)** [_Meet The Unique Linux OS That Looks Shockingly Similar To Windows 10_](https://www.forbes.com/sites/jasonevangelho/2020/07/10/ubuntu-based-linux-os-similar-to-windows-10/?sh=7669938221b9), 2020-07-10, retrieved 2024-03-22
+101.  **[^](#cite_ref-101)** ["Wubuntu Official Web-site"](https://wubuntu.org/). _wubuntu.org_. Retrieved 21 July 2024.
+102.  **[^](#cite_ref-102)** ["Zorin OS - About"](https://zorinos.com/about/). _Zorin OS_. Zorin Group. [Archived](https://web.archive.org/web/20190413024219/https://zorinos.com/about/) from the original on 13 April 2019. Retrieved 21 December 2018.
+103.  **[^](#cite_ref-103)** ["Knoppix Documentation Wiki"](http://knoppix.net/wiki/Main_Page). _knoppix.net_. [Archived](https://web.archive.org/web/20121207162804/http://knoppix.net/wiki/Main_Page) from the original on 2012-12-07. Retrieved 2012-11-18.
+104.  **[^](#cite_ref-104)** ["DSL information"](https://web.archive.org/web/20180930162042/http://www.damnsmalllinux.org/). _www.damnsmalllinux.org_. Archived from [the original](http://www.damnsmalllinux.org/) on 2018-09-30. Retrieved 2012-11-29.
+105.  **[^](#cite_ref-105)** [Feather Linux website](http://featherlinux.berlios.de/) [Archived](https://web.archive.org/web/20050703012324/http://featherlinux.berlios.de/) 2005-07-03 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine")
+106.  **[^](#cite_ref-106)** ["Garuda Linux Official website"](https://garudalinux.org/index.html). [Archived](https://web.archive.org/web/20201030170622/https://garudalinux.org/index.html) from the original on 2020-10-30. Retrieved 2021-11-27.
+107.  **[^](#cite_ref-discontinued_107-0)** ["Chakra project shutting down"](https://distrowatch.com/dwres.php?resource=showheadline&story=14141). DistroWatch. [Archived](https://web.archive.org/web/20201111210442/https://distrowatch.com/dwres.php?resource=showheadline&story=14141) from the original on 2020-11-11. Retrieved 2022-03-01.
+108.  **[^](#cite_ref-about_108-0)** ["About Frugalware"](http://frugalware.org/docs/stable/about.html). _Frugalware Stable Documentation_. Frugalware Project. [Archived](https://web.archive.org/web/20110927215050/http://frugalware.org/docs/stable/about.html) from the original on 2011-09-27. Retrieved 2011-09-11.
+109.  **[^](#cite_ref-109)** ["Intro"](https://kaosx.us/about/). _kaosx.us_. Retrieved 2023-01-31.
+110.  **[^](#cite_ref-110)** ["Current 12-18 Month Community Objectives :: Fedora Docs Site"](https://docs.fedoraproject.org/en-US/project/objectives/). _docs.fedoraproject.org_. [Archived](https://web.archive.org/web/20181216031747/https://docs.fedoraproject.org/en-US/project/objectives/) from the original on 2018-12-16. Retrieved 2018-12-23.
+111.  **[^](#cite_ref-111)** Singh, Karanbir (7 January 2014). ["\[CentOS-announce\] CentOS Project joins forces with Red Hat"](https://lists.centos.org/pipermail/centos-announce/2014-January/020100.html). [Archived](https://web.archive.org/web/20140107225749/https://lists.centos.org/pipermail/centos-announce/2014-January/020100.html) from the original on 2014-01-07. Retrieved 2020-08-09.
+112.  **[^](#cite_ref-112)** ["DistroWatch.com: EnGarde Secure Linux"](https://distrowatch.com/table.php?distribution=engarde). _distrowatch.com_. [Archived](https://web.archive.org/web/20181224074019/https://distrowatch.com/table.php?distribution=engarde) from the original on 2018-12-24. Retrieved 2018-12-23.
+113.  **[^](#cite_ref-113)** ["DistroWatch.com: Fermi Linux"](https://distrowatch.com/table.php?distribution=fermi). _distrowatch.com_. [Archived](https://web.archive.org/web/20181224074145/https://distrowatch.com/table.php?distribution=fermi) from the original on 2018-12-24. Retrieved 2018-12-23.
+114.  **[^](#cite_ref-114)** ["The Elegant Mageia Linux Prepares a New Release | Linux.com"](https://web.archive.org/web/20141017202605/http://www.linux.com/learn/tutorials/717273-the-elegant-mageia-linux-prepares-a-new-release). Archived from [the original](http://www.linux.com/learn/tutorials/717273-the-elegant-mageia-linux-prepares-a-new-release) on 2014-10-17. Retrieved 2014-11-09.
+115.  **[^](#cite_ref-115)** ["Mandriva SA official blog: Mandriva Linux will return to the community"](https://web.archive.org/web/20150523070604/https://blog.mandriva.com/en/2012/05/17/mandriva-linux-will-return-to-the-community/). [Mandriva](/wiki/Mandriva "Mandriva"). 17 May 2012. Archived from [the original](http://blog.mandriva.com/en/2012/05/17/mandriva-linux-will-return-to-the-community/) on 23 May 2015. Retrieved 2015-12-13.
+116.  **[^](#cite_ref-116)** ["About Gentoo – Gentoo Linux"](https://www.gentoo.org/get-started/about/). _www.gentoo.org_. [Archived](https://web.archive.org/web/20181221235233/https://www.gentoo.org/get-started/about/) from the original on 2018-12-21. Retrieved 2018-12-23.
+117.  **[^](#cite_ref-117)** ["Gentoo X86 Handbook - Gentoo Wiki"](https://wiki.gentoo.org/wiki/Handbook:X86?part=2&chap=1). _wiki.gentoo.org_. [Archived](https://web.archive.org/web/20181216031154/https://wiki.gentoo.org/wiki/Handbook:X86?part=2&chap=1) from the original on 2018-12-16. Retrieved 2018-12-23.
+118.  **[^](#cite_ref-chrome_118-0)** ["Chromium OS Developer Guide"](https://sites.google.com/a/chromium.org/dev/chromium-os/developer-guide). [Archived](https://web.archive.org/web/20150406123243/https://sites.google.com/a/chromium.org/dev/chromium-os/developer-guide) from the original on April 6, 2015. Retrieved January 29, 2015.
+119.  **[^](#cite_ref-119)** ["DistroWatch.com: AUSTRUMI"](https://distrowatch.com/table.php?distribution=austrumi). _distrowatch.com_. Retrieved 2023-01-31.
+120.  **[^](#cite_ref-120)** Vaughan-Nichols, Steven J. ["Debunking four myths about Android, Google, and open-source"](https://www.zdnet.com/article/debunking-four-myths-about-android-google-and-open-source/). _ZDNet_. [Archived](https://web.archive.org/web/20171108102316/http://www.zdnet.com/article/debunking-four-myths-about-android-google-and-open-source/) from the original on 2017-11-08. Retrieved 2017-11-24.
+121.  **[^](#cite_ref-121)** Heater, Brian (24 December 2016). ["After having its infrastructure shuttered, CyanogenMod will live on as Lineage"](https://techcrunch.com/2016/12/24/lineage/). _[TechCrunch](/wiki/TechCrunch "TechCrunch")_. [Archived](https://web.archive.org/web/20201206232143/https://techcrunch.com/2016/12/24/lineage/) from the original on 6 December 2020. Retrieved 6 December 2020.
+122.  **[^](#cite_ref-122)** ["A fork in the road"](https://web.archive.org/web/20161225144318/https://www.cyanogenmod.org/blog/a-fork-in-the-road). [CyanogenMod](/wiki/CyanogenMod "CyanogenMod"). 24 December 2016. Archived from [the original](https://www.cyanogenmod.org/blog/a-fork-in-the-road) on 25 December 2016. Retrieved 26 December 2016.
+123.  **[^](#cite_ref-123)** Smith, Chris (13 October 2013). ["Meet OmniROM, a new custom ROM for Android"](https://web.archive.org/web/20240225210113/https://www.androidauthority.com/omnirom-new-custom-rom-android-283136/). _Android Authority_. Archived from [the original](https://www.androidauthority.com/omnirom-new-custom-rom-android-283136/) on 25 February 2024. Retrieved 12 April 2024.
+124.  **[^](#cite_ref-124)** [_Guix, GNU's advanced distro and transactional package manager_](https://gnu.org/software/guix), [archived](https://web.archive.org/web/20180918233444/http://www.gnu.org/software/guix/) from the original on 2018-09-18, retrieved 2018-09-17
+125.  **[^](#cite_ref-125)** Bruce Byfield: [Eight Completely Free Linux Distros (And One More)](http://itmanagement.earthweb.com/osrc/article.php/3922031/Eight-Completely-Free-Linux-Distros-And-One-More.htm) [Archived](https://web.archive.org/web/20120118091706/http://itmanagement.earthweb.com/osrc/article.php/3922031/Eight-Completely-Free-Linux-Distros-And-One-More.htm) 2012-01-18 at the [Wayback Machine](/wiki/Wayback_Machine "Wayback Machine") earthweb.com, 2011.
+126.  **[^](#cite_ref-126)** [_List of Free GNU/Linux Distributions - GNU Project_](https://www.gnu.org/distros/free-distros.html), Free Software Foundation, [archived](https://web.archive.org/web/20141214211526/http://www.gnu.org/distros/free-distros.html) from the original on 2014-12-14, retrieved 2014-12-15
+127.  **[^](#cite_ref-127)** ["fli4l: News"](http://www.fli4l.de/en/). _www.fli4l.de_. [Archived](https://web.archive.org/web/20121112112208/http://www.fli4l.de/en/) from the original on 2012-11-12. Retrieved 2012-12-05.
+128.  **[^](#cite_ref-128)** ["Software Protection Initiative - Main"](https://www.spi.dod.mil). Spi.dod.mil. [Archived](https://web.archive.org/web/20120829224833/http://spi.dod.mil/) from the original on 2012-08-29. Retrieved 2013-07-05.
+129.  **[^](#cite_ref-129)** ["Lightweight Portable Security"](https://web.archive.org/web/20091216113431/http://www.spi.dod.mil/lipose.htm). _Software Protection Initiative_. DoD.mil. Archived from [the original](http://www.spi.dod.mil/lipose.htm) on 16 December 2009. Retrieved 19 July 2021.
+130.  **[^](#cite_ref-130)** ["SliTaz LiveCD Flavors"](http://www.slitaz.org/en/get/flavors.php). Association SliTaz. [Archived](https://web.archive.org/web/20150308182157/http://www.slitaz.org/en/get/flavors.php) from the original on 8 March 2015. Retrieved 24 March 2015.
+
+External links
+--------------
+
+\[[edit](/w/index.php?title=List_of_Linux_distributions&action=edit&section=24 "Edit section: External links")\]
+
+.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img\[src\*="Wiktionary-logo-en-v2.svg"\]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img\[src\*="Wiktionary-logo-en-v2.svg"\]{background-color:white}}
+
+.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}
+
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png)](/wiki/File:Wikibooks-logo-en-noslogan.svg)
+
+Wikibooks has a book on the topic of: _**[Using Ubuntu Linux/Ubuntu Variations](https://en.wikibooks.org/wiki/Using_Ubuntu_Linux/Ubuntu_Variations "wikibooks:Using Ubuntu Linux/Ubuntu Variations")**_
+
+*   [Linux free distros](https://www.gnu.org/distros/free-distros.html) ([Free Software Foundation](/wiki/Free_Software_Foundation "Free Software Foundation"))
+*   [Repository tracking](https://repology.org/)
+*   [The LWN.net Linux Distribution List](https://lwn.net/Distributions) – Categorized list with information about each entry.
+*   [Distrowatch](https://distrowatch.com/) – Announcements, information, links and popularity ranking for many Linux distributions.
+*   [Linux Distros](https://www.linux-distros.com/) – Information and ISO files for many oldest Linux distributions.
+
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\\a0 "}.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}
+
+.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"\[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" \]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}
+
+*   [v](/wiki/Template:Linux_distributions "Template:Linux distributions")
+*   [t](/wiki/Template_talk:Linux_distributions "Template talk:Linux distributions")
+*   [e](/wiki/Special:EditPage/Template:Linux_distributions "Special:EditPage/Template:Linux distributions")
+
+[Linux distributions](/wiki/Linux_distribution "Linux distribution")
+
+[Android](/wiki/Android_(operating_system) "Android (operating system)")
+
+[LineageOS](/wiki/LineageOS "LineageOS")
+
+*   [/e/](/wiki//e/_(operating_system) "/e/ (operating system)")
+*   [CalyxOS](/wiki/CalyxOS "CalyxOS")
+*   [CrDroid](/wiki/CrDroid "CrDroid")
+*   [iodéOS](/wiki/Iod%C3%A9OS "IodéOS")
+*   [Replicant](/wiki/Replicant_(operating_system) "Replicant (operating system)")
+
+Other
+
+*   [Android-x86](/wiki/Android-x86 "Android-x86")
+*   [Celadon](/wiki/Android-x86#Project_Celadon "Android-x86")
+*   [ColorOS](/wiki/ColorOS "ColorOS")
+*   [EMUI](/wiki/EMUI "EMUI")
+*   [Fire OS](/wiki/Fire_OS "Fire OS")
+*   [GrapheneOS](/wiki/GrapheneOS "GrapheneOS")
+*   [One UI](/wiki/One_UI "One UI")
+*   [Paranoid Android](/wiki/Paranoid_Android_(operating_system) "Paranoid Android (operating system)")
+*   [Resurrection Remix OS](/wiki/Resurrection_Remix_OS "Resurrection Remix OS")
+*   [OmniROM](/wiki/OmniROM "OmniROM")
+*   [Xiaomi HyperOS](/wiki/Xiaomi_HyperOS "Xiaomi HyperOS")
+
+[Arch](/wiki/Arch_Linux "Arch Linux")
+
+*   [ArchBang](/wiki/ArchBang "ArchBang")
+*   [Artix](/wiki/Artix_Linux "Artix Linux")
+*   [BlackArch](/wiki/BlackArch "BlackArch")
+*   [EndeavourOS](/wiki/EndeavourOS "EndeavourOS")
+*   [Frugalware](/wiki/Frugalware_Linux "Frugalware Linux")
+*   [Garuda](/wiki/Garuda_Linux "Garuda Linux")
+*   [Hyperbola GNU](/wiki/Hyperbola_GNU/Linux-libre "Hyperbola GNU/Linux-libre")
+*   [LinHES](/wiki/LinHES "LinHES")
+*   [Manjaro](/wiki/Manjaro "Manjaro")
+*   [Parabola GNU](/wiki/Parabola_GNU/Linux-libre "Parabola GNU/Linux-libre")
+*   [SteamOS](/wiki/SteamOS "SteamOS") (3.0 onwards)
+*   [SystemRescue](/wiki/SystemRescue "SystemRescue")
+
+[Debian](/wiki/Debian "Debian")
+
+[Ubuntu](/wiki/Ubuntu "Ubuntu")
+
+*   Official: [Edubuntu](/wiki/Edubuntu "Edubuntu")
+*   [Kubuntu](/wiki/Kubuntu "Kubuntu")
+*   [Lubuntu](/wiki/Lubuntu "Lubuntu")
+*   [Ubuntu Budgie](/wiki/Ubuntu_Budgie "Ubuntu Budgie")
+*   [Ubuntu Cinnamon](/wiki/Ubuntu_Cinnamon "Ubuntu Cinnamon")
+*   [Ubuntu Kylin](/wiki/Ubuntu_Kylin "Ubuntu Kylin")
+*   [Ubuntu MATE](/wiki/Ubuntu_MATE "Ubuntu MATE")
+*   [Ubuntu Studio](/wiki/Ubuntu_Studio "Ubuntu Studio")
+*   [Ubuntu Unity](/wiki/Ubuntu_Unity "Ubuntu Unity")
+*   [Xubuntu](/wiki/Xubuntu "Xubuntu")
+
+*   Derivatives: [BackBox](/wiki/BackBox "BackBox")
+*   [Bodhi Linux](/wiki/Bodhi_Linux "Bodhi Linux")
+*   [elementary OS](/wiki/Elementary_OS "Elementary OS")
+*   [Emmabuntüs](/wiki/Emmabunt%C3%BCs "Emmabuntüs")
+*   [KDE neon](/wiki/KDE_neon "KDE neon")
+*   [Freespire](/wiki/Freespire "Freespire")
+*   [Linux Lite](/wiki/Linux_Lite "Linux Lite")
+*   [Linux Mint](/wiki/Linux_Mint "Linux Mint")
+*   [LXLE Linux](/wiki/LXLE_Linux "LXLE Linux")
+*   [Nova OS](/wiki/Nova_(operating_system) "Nova (operating system)")
+*   [Peppermint OS](/wiki/Peppermint_OS "Peppermint OS")
+*   [Pop! OS](/wiki/Pop!_OS "Pop! OS")
+*   [Trisquel](/wiki/Trisquel "Trisquel")
+*   [Ubuntu Touch](/wiki/Ubuntu_Touch "Ubuntu Touch")
+*   [Uruk](/wiki/Uruk_GNU/Linux "Uruk GNU/Linux")
+*   [Wubuntu](/wiki/Wubuntu "Wubuntu")
+*   [Zorin OS](/wiki/Zorin_OS "Zorin OS")
+
+Other
+
+*   [antiX](/wiki/AntiX "AntiX")
+*   [Astra](/wiki/Astra_Linux "Astra Linux")
+*   [Bharat Operating System Solutions](/wiki/Bharat_Operating_System_Solutions "Bharat Operating System Solutions")
+*   [BlankOn Linux](/wiki/BlankOn_Linux "BlankOn Linux")
+*   [Commodore OS](/wiki/Commodore_OS "Commodore OS")
+*   [Damn Small Linux](/wiki/Damn_Small_Linux "Damn Small Linux")
+*   [deepin](/wiki/Deepin "Deepin")
+*   [Devuan](/wiki/Devuan "Devuan")
+*   [Elive](/wiki/Elive "Elive")
+*   [Endless OS](/wiki/Endless_OS "Endless OS")
+*   [FreedomBox](/wiki/FreedomBox "FreedomBox")
+*   [Kaisen](/wiki/Kaisen_Linux "Kaisen Linux")
+*   [Kali](/wiki/Kali_Linux "Kali Linux")
+*   [Kanotix](/wiki/Kanotix "Kanotix")
+*   [Knoppix](/wiki/Knoppix "Knoppix")
+*   [MX Linux](/wiki/MX_Linux "MX Linux")
+*   [Parrot OS](/wiki/Parrot_OS "Parrot OS")
+*   [PureOS](/wiki/PureOS "PureOS")
+*   [Raspberry Pi OS](/wiki/Raspberry_Pi_OS "Raspberry Pi OS")
+*   [Q4OS](/wiki/Q4OS "Q4OS")
+*   [Slax](/wiki/Slax "Slax")
+*   [SparkyLinux](/wiki/SparkyLinux "SparkyLinux")
+*   [SolydXK](/wiki/SolydXK "SolydXK")
+*   [Tails](/wiki/Tails_(operating_system) "Tails (operating system)")
+*   [Tizen](/wiki/Tizen "Tizen")
+*   [UOS](/wiki/Unity_Operating_System "Unity Operating System")
+*   [Whonix](/wiki/Whonix "Whonix")
+
+[Fedora](/wiki/Fedora_Linux "Fedora Linux")
+
+[CentOS Stream](/wiki/CentOS_Stream "CentOS Stream")
+
+*   [AlmaLinux](/wiki/AlmaLinux "AlmaLinux")
+*   [EulerOS](/wiki/EulerOS "EulerOS")
+*   [MIRACLE LINUX](/wiki/Miracle_Linux "Miracle Linux")
+*   [Oracle Linux](/wiki/Oracle_Linux "Oracle Linux")
+*   [Red Hat Enterprise Linux](/wiki/Red_Hat_Enterprise_Linux "Red Hat Enterprise Linux")
+*   [Rocky Linux](/wiki/Rocky_Linux "Rocky Linux")
+
+Other
+
+*   [Asahi Linux](/wiki/Asahi_Linux "Asahi Linux")
+*   [Network Security Toolkit](/wiki/Network_Security_Toolkit "Network Security Toolkit")
+*   [Nobara](/wiki/Nobara_Linux "Nobara Linux")
+*   [Qubes OS](/wiki/Qubes_OS "Qubes OS")
+*   [Red Star OS](/wiki/Red_Star_OS "Red Star OS")
+*   [Sailfish OS](/wiki/Sailfish_OS "Sailfish OS")
+
+[Gentoo](/wiki/Gentoo_Linux "Gentoo Linux")
+
+*   [Calculate Linux](/wiki/Calculate_Linux "Calculate Linux")
+*   [ChromiumOS](/wiki/ChromiumOS "ChromiumOS")
+    *   [ChromeOS](/wiki/ChromeOS "ChromeOS")
+*   [Pentoo](/wiki/Pentoo "Pentoo")
+
+[Mandrake](/wiki/Mandrake_Linux "Mandrake Linux")
+
+*   [ALT Linux](/wiki/ALT_Linux "ALT Linux")
+*   [PCLinuxOS](/wiki/PCLinuxOS "PCLinuxOS")
+
+[Mandriva](/wiki/Mandriva_Linux "Mandriva Linux")
+
+*   [Mageia](/wiki/Mageia "Mageia")
+*   [OpenMandriva Lx](/wiki/OpenMandriva_Lx "OpenMandriva Lx")
+*   [ROSA Linux](/wiki/ROSA_Linux "ROSA Linux")
+
+[Slackware](/wiki/Slackware "Slackware")
+
+*   [Austrumi Linux](/wiki/Austrumi_Linux "Austrumi Linux")
+*   [Porteus](/wiki/Porteus_(operating_system) "Porteus (operating system)")
+*   [Salix OS](/wiki/Salix_OS "Salix OS")
+*   [Slax](/wiki/Slax "Slax")
+*   [Zenwalk](/wiki/Zenwalk "Zenwalk")
+
+[SUSE](/wiki/SUSE_Linux "SUSE Linux")
+
+*   [openSUSE](/wiki/OpenSUSE "OpenSUSE")
+    *   [SUSE Linux Enterprise](/wiki/SUSE_Linux_Enterprise "SUSE Linux Enterprise")
+        *   [Open Enterprise Server](/wiki/Open_Enterprise_Server "Open Enterprise Server")
+    *   [GeckoLinux](/wiki/GeckoLinux "GeckoLinux")
+
+Other
+
+*   [4MLinux](/wiki/4MLinux "4MLinux")
+*   [Alpine](/wiki/Alpine_Linux "Alpine Linux")
+*   [CHAOS](/wiki/CHAOS_(operating_system) "CHAOS (operating system)")
+*   [Chimera Linux](/wiki/Chimera_Linux "Chimera Linux")
+*   [Clear Linux OS](/wiki/Clear_Linux_OS "Clear Linux OS")
+*   [CRUX](/wiki/CRUX "CRUX")
+    *   [Kwort](/wiki/Kwort_Linux "Kwort Linux")
+*   [GoboLinux](/wiki/GoboLinux "GoboLinux")
+*   [Guix SD](/wiki/GNU_Guix_System "GNU Guix System")
+*   [KaiOS](/wiki/KaiOS "KaiOS")
+*   [KaOS](/wiki/KaOS "KaOS")
+*   [NixOS](/wiki/NixOS "NixOS")
+*   [Puppy](/wiki/Puppy_Linux "Puppy Linux")
+*   [Source Mage](/wiki/Source_Mage "Source Mage")
+*   [Solus](/wiki/Solus_(operating_system) "Solus (operating system)")
+*   [T2 SDE](/wiki/T2_SDE "T2 SDE")
+*   [Tiny Core Linux](/wiki/Tiny_Core_Linux "Tiny Core Linux")
+*   [Void](/wiki/Void_Linux "Void Linux")
+
+_Discontinued_
+
+[Android](/wiki/Android_(operating_system) "Android (operating system)")
+
+*   [CyanogenMod](/wiki/CyanogenMod "CyanogenMod")
+*   [DivestOS](/wiki/DivestOS "DivestOS")
+*   [MIUI](/wiki/MIUI "MIUI")
+*   [PixelExperience](/wiki/PixelExperience "PixelExperience")
+*   [Remix OS](/wiki/Remix_OS "Remix OS")
+
+[Arch](/wiki/Arch_Linux "Arch Linux")
+
+*   [ArchLabs](/wiki/ArchLabs "ArchLabs")
+*   [Antergos](/wiki/Antergos "Antergos")
+*   [Chakra](/wiki/Chakra_(operating_system) "Chakra (operating system)")
+
+[Debian](/wiki/Debian "Debian")
+
+*   Ubuntu: [Asturix](/wiki/Asturix "Asturix")
+*   [Black Lab Linux](/wiki/Black_Lab_Linux "Black Lab Linux")
+*   [Cub Linux](/wiki/Cub_Linux "Cub Linux")
+*   [Gobuntu](/wiki/Gobuntu "Gobuntu")
+*   [gOS](/wiki/GOS_(operating_system) "GOS (operating system)")
+*   [Linux Caixa Mágica](/wiki/Linux_Caixa_M%C3%A1gica "Linux Caixa Mágica")
+*   [LinuxTLE](/wiki/LinuxTLE "LinuxTLE")
+*   [Pinguy OS](/wiki/Pinguy_OS "Pinguy OS")
+*   [Sabily](/wiki/Sabily "Sabily")
+*   [Ubuntu GNOME](/wiki/Ubuntu_GNOME "Ubuntu GNOME")
+
+*   Other derivatives: [BackTrack](/wiki/BackTrack "BackTrack")
+*   [Corel Linux](/wiki/Corel_Linux "Corel Linux")
+*   [CrunchBang Linux](/wiki/CrunchBang_Linux "CrunchBang Linux")
+*   [DoudouLinux](/wiki/DoudouLinux "DoudouLinux")
+*   [Dreamlinux](/wiki/Dreamlinux "Dreamlinux")
+*   [Feather Linux](/wiki/Feather_Linux "Feather Linux")
+*   [gNewSense](/wiki/GNewSense "GNewSense")
+*   [HandyLinux](/wiki/HandyLinux "HandyLinux")
+*   [Libranet](/wiki/Libranet "Libranet")
+*   [Musix GNU+Linux](/wiki/Musix_GNU%2BLinux "Musix GNU+Linux")
+*   [Parsix](/wiki/Parsix "Parsix")
+*   [SteamOS](/wiki/SteamOS "SteamOS") (1.0–2.0)
+*   [Sunwah Linux](/wiki/Sunwah_Linux "Sunwah Linux")
+
+[Gentoo](/wiki/Gentoo_Linux "Gentoo Linux")
+
+*   [Container Linux](/wiki/Container_Linux "Container Linux")
+*   [Sabayon Linux](/wiki/Sabayon_Linux "Sabayon Linux")
+*   [xB Machine](/wiki/XB_Machine "XB Machine")
+
+[Red Hat](/wiki/Red_Hat_Linux "Red Hat Linux")/[Fedora](/wiki/Fedora_Linux "Fedora Linux")
+
+*   [BLAG Linux and GNU](/wiki/BLAG_Linux_and_GNU "BLAG Linux and GNU")
+*   [CentOS](/wiki/CentOS "CentOS")
+*   [ClearOS](/wiki/ClearOS "ClearOS")
+*   [Linpus Linux](/wiki/Linpus_Linux "Linpus Linux")
+*   [Korora](/wiki/Korora_(operating_system) "Korora (operating system)")
+*   [Linux for PlayStation 2](/wiki/Linux_for_PlayStation_2 "Linux for PlayStation 2")
+*   [Scientific Linux](/wiki/Scientific_Linux "Scientific Linux")
+*   [Red Hat Linux](/wiki/Red_Hat_Linux "Red Hat Linux")
+*   [Rocks Cluster Distribution](/wiki/Rocks_Cluster_Distribution "Rocks Cluster Distribution")
+*   [Think Blue Linux](/wiki/Think_Blue_Linux "Think Blue Linux")
+*   [Turbolinux](/wiki/Turbolinux "Turbolinux")
+*   [Vine Linux](/wiki/Vine_Linux "Vine Linux")
+*   [Yellow Dog Linux](/wiki/Yellow_Dog_Linux "Yellow Dog Linux")
+
+[Slackware](/wiki/Slackware "Slackware")
+
+*   [Absolute Linux](/wiki/Absolute_Linux "Absolute Linux")
+*   [BioSLAX](/wiki/BioSLAX "BioSLAX")
+*   [Damn Vulnerable Linux](/wiki/Damn_Vulnerable_Linux "Damn Vulnerable Linux")
+*   [KateOS](/wiki/KateOS "KateOS")
+*   [Kongoni](/wiki/Kongoni_(operating_system) "Kongoni (operating system)")
+*   [NimbleX](/wiki/NimbleX "NimbleX")
+*   [Platypux](/wiki/Platypux "Platypux")
+*   [TopologiLinux](/wiki/TopologiLinux "TopologiLinux")
+*   [VectorLinux](/wiki/VectorLinux "VectorLinux")
+
+[SUSE](/wiki/SUSE_Linux "SUSE Linux")
+
+*   [SUSE Studio Express](/wiki/SUSE_Studio "SUSE Studio")
+
+Other
+
+*   [Caldera OpenLinux](/wiki/Caldera_OpenLinux "Caldera OpenLinux")
+*   [DemoLinux](/wiki/DemoLinux "DemoLinux")
+*   [Familiar Linux](/wiki/Familiar_Linux "Familiar Linux")
+*   [Firefox OS](/wiki/Firefox_OS "Firefox OS")
+    *   [B2G OS](/wiki/Firefox_OS#B2G_OS "Firefox OS")
+*   [Floppyfw](/wiki/Floppyfw "Floppyfw")
+*   [Foresight Linux](/wiki/Foresight_Linux "Foresight Linux")
+*   [Immunix](/wiki/Immunix "Immunix")
+*   [Jurix](/wiki/Jurix "Jurix")
+*   [Linux Router Project](/wiki/Linux_Router_Project "Linux Router Project")
+*   [MCC Interim Linux](/wiki/MCC_Interim_Linux "MCC Interim Linux")
+*   [MeeGo](/wiki/MeeGo "MeeGo")
+    *   [Mer](/wiki/Mer_(software_distribution) "Mer (software distribution)")
+*   [Mobilinux](/wiki/Mobilinux "Mobilinux")
+*   [Nitix](/wiki/Nitix "Nitix")
+*   [OpenELEC](/wiki/OpenELEC "OpenELEC")
+*   [Softlanding Linux System](/wiki/Softlanding_Linux_System "Softlanding Linux System")
+*   [Splashtop OS](/wiki/Splashtop_OS "Splashtop OS")
+*   [Turkix](/wiki/Turkix "Turkix")
+
+*   ![](//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png) List
+*    [![icon](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/13px-NewTux.svg.png)](/wiki/File:NewTux.svg)[Linux portal](/wiki/Portal:Linux "Portal:Linux")
+*   [![](//upload.wikimedia.org/wikipedia/en/thumb/6/6a/Symbol_na_class.svg/16px-Symbol_na_class.svg.png)](/wiki/File:Symbol_na_class.svg "Non-article page") [Comparison](/wiki/Comparison_of_Linux_distributions "Comparison of Linux distributions")
+*   ![](//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png) [Category](/wiki/Category:Linux_distributions "Category:Linux distributions")
+
+*   [v](/wiki/Template:Linux "Template:Linux")
+*   [t](/wiki/Template_talk:Linux "Template talk:Linux")
+*   [e](/wiki/Special:EditPage/Template:Linux "Special:EditPage/Template:Linux")
+
+[Linux](/wiki/Linux "Linux")
+
+[Linux kernel](/wiki/Linux_kernel "Linux kernel")
+
+*   [History](/wiki/History_of_Linux "History of Linux")
+*   [Linus's law](/wiki/Linus%27s_law "Linus's law")
+*   [Linux-libre](/wiki/Linux-libre "Linux-libre")
+*   [Booting process](/wiki/Booting_process_of_Linux "Booting process of Linux")
+*   [Kernel oops](/wiki/Linux_kernel_oops "Linux kernel oops")
+*   [Tux](/wiki/Tux_(mascot) "Tux (mascot)")
+*   _[more…](/wiki/Template:Linux_kernel "Template:Linux kernel")_
+
+Controversies
+
+*   [Criticism of Linux](/wiki/Criticism_of_Linux "Criticism of Linux")
+*   [Criticism of desktop Linux](/wiki/Criticism_of_desktop_Linux "Criticism of desktop Linux")
+*   [GNU/Linux naming controversy](/wiki/GNU/Linux_naming_controversy "GNU/Linux naming controversy")
+*   [Tanenbaum–Torvalds debate](/wiki/Tanenbaum%E2%80%93Torvalds_debate "Tanenbaum–Torvalds debate")
+*   [SCO and Linux](/wiki/SCO%E2%80%93Linux_disputes "SCO–Linux disputes")
+
+[Distributions](/wiki/Linux_distribution "Linux distribution")
+
+*   [General comparison](/wiki/Comparison_of_Linux_distributions "Comparison of Linux distributions")
+*   Distributions list
+*   [Netbook-specific comparison](/wiki/Comparison_of_netbook-oriented_Linux_distributions "Comparison of netbook-oriented Linux distributions")
+*   [Distributions that run from RAM](/wiki/List_of_Linux_distributions_that_run_from_RAM "List of Linux distributions that run from RAM")
+*   [Lightweight](/wiki/Light-weight_Linux_distribution "Light-weight Linux distribution")
+*   [Security-focused operating system](/wiki/Security-focused_operating_system#Linux "Security-focused operating system")
+*   [Package manager](/wiki/Package_manager "Package manager")
+    *   [Package format](/wiki/Package_format "Package format")
+    *   [List of software package managers](/wiki/List_of_software_package_management_systems "List of software package management systems")
+
+Organizations
+
+*   [LinuxChix](/wiki/LinuxChix "LinuxChix")
+*   [Linux Counter](/wiki/Linux_Counter "Linux Counter")
+*   [Linux Documentation Project](/wiki/Linux_Documentation_Project "Linux Documentation Project")
+*   [Linux Foundation](/wiki/Linux_Foundation "Linux Foundation")
+*   [Linux Mark Institute](/wiki/Linux_Mark_Institute "Linux Mark Institute")
+*   [Linux User Group (LUG)](/wiki/Linux_user_group "Linux user group")
+
+[Adoption](/wiki/Linux_adoption "Linux adoption")
+
+*   [Adopters](/wiki/List_of_Linux_adopters "List of Linux adopters")
+*   [Desktop](/wiki/Linux_desktop_environments "Linux desktop environments")
+*   [Embedded](/wiki/Linux_on_embedded_systems "Linux on embedded systems")
+*   [Gaming](/wiki/Linux_gaming "Linux gaming")
+*   [Mobile](/wiki/Linux_for_mobile_devices "Linux for mobile devices")
+*   [Range of use](/wiki/Linux_range_of_use "Linux range of use")
+*   [Linux malware](/wiki/Linux_malware "Linux malware")
+
+Media
+
+*   [DistroWatch](/wiki/DistroWatch "DistroWatch")
+*   _[Free Software Magazine](/wiki/Free_Software_Magazine "Free Software Magazine")_
+*   _[Full Circle](/wiki/Full_Circle_(magazine) "Full Circle (magazine)")_
+*   _[Hacker Public Radio](/wiki/Hacker_Public_Radio "Hacker Public Radio")_
+*   [Linux.com](/wiki/Linux.com "Linux.com")
+*   _[Linux Format](/wiki/Linux_Format "Linux Format")_
+*   _[Linux Gazette](/wiki/Linux_Gazette "Linux Gazette")_
+*   _[Linux Journal](/wiki/Linux_Journal "Linux Journal")_
+*   _[Linux Magazine](/wiki/Linux_Magazine "Linux Magazine")_
+*   _[LinuxUser](/wiki/LinuxUser "LinuxUser")_
+    *   _[Ubuntu User](/wiki/Ubuntu_User "Ubuntu User")_
+*   [Linux Outlaws](/wiki/Linux_Outlaws "Linux Outlaws")
+*   _[Linux Voice](/wiki/Linux_Voice "Linux Voice")_
+*   [LugRadio](/wiki/LugRadio "LugRadio")
+*   [LWN.net](/wiki/LWN.net "LWN.net")
+*   [Phoronix](/wiki/Phoronix_Test_Suite#Phoronix_website "Phoronix Test Suite")
+*   _[Revolution OS](/wiki/Revolution_OS "Revolution OS")_
+*   [_The Code_](/wiki/The_Code_(2001_film) "The Code (2001 film)")
+
+[Professional related certifications](/wiki/List_of_computer_security_certifications "List of computer security certifications")
+
+*   [CompTIA Linux+](/wiki/CompTIA_Linux%2B "CompTIA Linux+")
+*   [Linux Foundation](/wiki/Linux_Foundation_Linux_Certification "Linux Foundation Linux Certification")
+*   [Red Hat](/wiki/Red_Hat_Certification_Program "Red Hat Certification Program")
+*   [Ubuntu](/wiki/Ubuntu_Professional_Certification "Ubuntu Professional Certification")
+
+*    **[![icon](//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/13px-NewTux.svg.png)](/wiki/File:NewTux.svg)[Linux portal](/wiki/Portal:Linux "Portal:Linux")**
+*    **![](//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Free_and_open-source_software_logo_%282009%29.svg/16px-Free_and_open-source_software_logo_%282009%29.svg.png)[Free and open-source software portal](/wiki/Portal:Free_and_open-source_software "Portal:Free and open-source software")**
+*   ![](//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png) **[Category](/wiki/Category:Linux "Category:Linux")**
+
+*   [v](/wiki/Template:FOSS "Template:FOSS")
+*   [t](/wiki/Template_talk:FOSS "Template talk:FOSS")
+*   [e](/wiki/Special:EditPage/Template:FOSS "Special:EditPage/Template:FOSS")
+
+[Free and open-source software](/wiki/Free_and_open-source_software "Free and open-source software")
+
+General
+
+*   [Alternative terms for free software](/wiki/Alternative_terms_for_free_software "Alternative terms for free software")
+*   [Comparison of open-source and closed-source software](/wiki/Comparison_of_open-source_and_closed-source_software "Comparison of open-source and closed-source software")
+*   [Comparison of source-code-hosting facilities](/wiki/Comparison_of_source-code-hosting_facilities "Comparison of source-code-hosting facilities")
+*   [Free software](/wiki/Free_software "Free software")
+*   [Free software project directories](/wiki/List_of_free_software_project_directories "List of free software project directories")
+*   [Gratis versus libre](/wiki/Gratis_versus_libre "Gratis versus libre")
+*   [Long-term support](/wiki/Long-term_support "Long-term support")
+*   [Open-source software](/wiki/Open-source_software "Open-source software")
+*   [Open-source software development](/wiki/Open-source_software_development "Open-source software development")
+*   [Outline](/wiki/Outline_of_free_software "Outline of free software")
+*   [Timeline](/wiki/Timeline_of_free_and_open-source_software "Timeline of free and open-source software")
+
+[Software  
+packages](/wiki/List_of_free_and_open-source_software_packages "List of free and open-source software packages")
+
+*   [Audio](/wiki/Comparison_of_free_software_for_audio "Comparison of free software for audio")
+*   [Bioinformatics](/wiki/List_of_open-source_bioinformatics_software "List of open-source bioinformatics software")
+*   [Codecs](/wiki/List_of_open-source_codecs "List of open-source codecs")
+*   [Configuration management](/wiki/Comparison_of_open-source_configuration_management_software "Comparison of open-source configuration management software")
+*   [Drivers](/wiki/Device_driver "Device driver")
+    *   [Graphics](/wiki/Free_and_open-source_graphics_device_driver "Free and open-source graphics device driver")
+    *   [Wireless](/wiki/Comparison_of_open-source_wireless_drivers "Comparison of open-source wireless drivers")
+*   [Health](/wiki/List_of_open-source_health_software "List of open-source health software")
+*   [Mathematics](/wiki/List_of_open-source_software_for_mathematics "List of open-source software for mathematics")
+*   [Office suites](/wiki/List_of_office_suites "List of office suites")
+*   [Operating systems](/wiki/Comparison_of_open-source_operating_systems "Comparison of open-source operating systems")
+*   [Routing](/wiki/List_of_open-source_routing_platforms "List of open-source routing platforms")
+*   [Television](/wiki/List_of_free_television_software "List of free television software")
+*   [Video games](/wiki/List_of_open-source_video_games "List of open-source video games")
+*   [Web applications](/wiki/List_of_free_and_open-source_web_applications "List of free and open-source web applications")
+    *   [E-commerce](/wiki/Comparison_of_shopping_cart_software "Comparison of shopping cart software")
+*   [Android apps](/wiki/List_of_free_and_open-source_Android_applications "List of free and open-source Android applications")
+*   [iOS apps](/wiki/List_of_free_and_open-source_iOS_applications "List of free and open-source iOS applications")
+*   [Commercial](/wiki/List_of_commercial_open-source_applications_and_services "List of commercial open-source applications and services")
+*   [Formerly proprietary](/wiki/List_of_formerly_proprietary_software "List of formerly proprietary software")
+*   [Formerly open-source](/wiki/List_of_formerly_free_and_open-source_software "List of formerly free and open-source software")
+
+[Community](/wiki/Community_of_practice "Community of practice")
+
+*   [Free software movement](/wiki/Free_software_movement "Free software movement")
+*   [History](/wiki/History_of_free_and_open-source_software "History of free and open-source software")
+*   [Open-source-software movement](/wiki/Open-source-software_movement "Open-source-software movement")
+*   [Events](/wiki/List_of_free-software_events "List of free-software events")
+*   [Advocacy](/wiki/Open-source_software_advocacy "Open-source software advocacy")
+
+[Organisations](/wiki/List_of_free_and_open-source_software_organizations "List of free and open-source software organizations")
+
+*   [Free Software Movement of India](/wiki/Free_Software_Movement_of_India "Free Software Movement of India")
+*   [Free Software Foundation](/wiki/Free_Software_Foundation "Free Software Foundation")
+
+[Licenses](/wiki/Free-software_license "Free-software license")
+
+*   [AFL](/wiki/Academic_Free_License "Academic Free License")
+*   [Apache](/wiki/Apache_License "Apache License")
+*   [APSL](/wiki/Apple_Public_Source_License "Apple Public Source License")
+*   [Artistic](/wiki/Artistic_License "Artistic License")
+*   [Beerware](/wiki/Beerware "Beerware")
+*   [BSD](/wiki/BSD_licenses "BSD licenses")
+*   [Creative Commons](/wiki/Creative_Commons_license "Creative Commons license")
+*   [CDDL](/wiki/Common_Development_and_Distribution_License "Common Development and Distribution License")
+*   [EPL](/wiki/Eclipse_Public_License "Eclipse Public License")
+*   [Free Software Foundation](/wiki/Free_Software_Foundation "Free Software Foundation")
+    *   [GNU GPL](/wiki/GNU_General_Public_License "GNU General Public License")
+    *   [GNU AGPL](/wiki/GNU_Affero_General_Public_License "GNU Affero General Public License")
+    *   [GNU LGPL](/wiki/GNU_Lesser_General_Public_License "GNU Lesser General Public License")
+*   [ISC](/wiki/ISC_license "ISC license")
+*   [MIT](/wiki/MIT_License "MIT License")
+*   [MPL](/wiki/Mozilla_Public_License "Mozilla Public License")
+*   [Python](/wiki/Python_License "Python License")
+*   [Python Software Foundation License](/wiki/Python_Software_Foundation_License "Python Software Foundation License")
+*   [Shared Source Initiative](/wiki/Shared_Source_Initiative "Shared Source Initiative")
+*   [Sleepycat](/wiki/Sleepycat_License "Sleepycat License")
+*   [Unlicense](/wiki/Unlicense "Unlicense")
+*   [WTFPL](/wiki/WTFPL "WTFPL")
+*   [zlib](/wiki/Zlib_License "Zlib License")
+
+Types and  
+standards
+
+*   [Comparison of licenses](/wiki/Comparison_of_free_and_open-source_software_licenses "Comparison of free and open-source software licenses")
+*   [Contributor License Agreement](/wiki/Contributor_License_Agreement "Contributor License Agreement")
+*   [Copyleft](/wiki/Copyleft "Copyleft")
+*   [Debian Free Software Guidelines](/wiki/Debian_Free_Software_Guidelines "Debian Free Software Guidelines")
+*   [Definition of Free Cultural Works](/wiki/Definition_of_Free_Cultural_Works "Definition of Free Cultural Works")
+*   [Free license](/wiki/Free_license "Free license")
+*   [The Free Software Definition](/wiki/The_Free_Software_Definition "The Free Software Definition")
+*   [The Open Source Definition](/wiki/The_Open_Source_Definition "The Open Source Definition")
+*   [Open-source license](/wiki/Open-source_license "Open-source license")
+*   [Permissive software license](/wiki/Permissive_software_license "Permissive software license")
+*   [Public domain](/wiki/Public_domain "Public domain")
+
+Challenges
+
+*   [Digital rights management](/wiki/Digital_rights_management "Digital rights management")
+*   [License proliferation](/wiki/License_proliferation "License proliferation")
+*   [Mozilla software rebranding](/wiki/Mozilla_software_rebranded_by_Debian "Mozilla software rebranded by Debian")
+*   [Proprietary device drivers](/wiki/Proprietary_device_driver "Proprietary device driver")
+*   [Proprietary firmware](/wiki/Proprietary_firmware "Proprietary firmware")
+*   [Proprietary software](/wiki/Proprietary_software "Proprietary software")
+*   [SCO/Linux controversies](/wiki/SCO%E2%80%93Linux_disputes "SCO–Linux disputes")
+*   [Software patents](/wiki/Software_patents_and_free_software "Software patents and free software")
+*   [Software security](/wiki/Open-source_software_security "Open-source software security")
+*   [Tivoization](/wiki/Tivoization "Tivoization")
+*   [Trusted Computing](/wiki/Trusted_Computing "Trusted Computing")
+
+Related  
+topics
+
+*   [Forking](/wiki/Fork_(software_development) "Fork (software development)")
+*   _[GNU Manifesto](/wiki/GNU_Manifesto "GNU Manifesto")_
+*   [Microsoft Open Specification Promise](/wiki/Microsoft_Open_Specification_Promise "Microsoft Open Specification Promise")
+*   [Open-core model](/wiki/Open-core_model "Open-core model")
+*   [Open-source hardware](/wiki/Open-source_hardware "Open-source hardware")
+*   [Shared Source Initiative](/wiki/Shared_Source_Initiative "Shared Source Initiative")
+*   [Source-available software](/wiki/Source-available_software "Source-available software")
+*   _[The Cathedral and the Bazaar](/wiki/The_Cathedral_and_the_Bazaar "The Cathedral and the Bazaar")_
+*   _[Revolution OS](/wiki/Revolution_OS "Revolution OS")_
+
+*   [![](//upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/16px-Symbol_portal_class.svg.png)](/wiki/File:Symbol_portal_class.svg "Portal") [Portal](/wiki/Portal:Free_and_open-source_software "Portal:Free and open-source software")
+*   ![](//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png) [Category](/wiki/Category:Free_software "Category:Free software")
+
+![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=0)
+
+Retrieved from "[https://en.wikipedia.org/w/index.php?title=List\_of\_Linux\_distributions&oldid=1271735121](https://en.wikipedia.org/w/index.php?title=List_of_Linux_distributions&oldid=1271735121)"
+
+[Categories](/wiki/Help:Category "Help:Category"):
+
+*   [Linux distributions](/wiki/Category:Linux_distributions "Category:Linux distributions")
+*   [Lists of operating systems](/wiki/Category:Lists_of_operating_systems "Category:Lists of operating systems")
+
+Hidden categories:
+
+*   [CS1 Russian-language sources (ru)](/wiki/Category:CS1_Russian-language_sources_(ru) "Category:CS1 Russian-language sources (ru)")
+*   [Webarchive template wayback links](/wiki/Category:Webarchive_template_wayback_links "Category:Webarchive template wayback links")
+*   [CS1: unfit URL](/wiki/Category:CS1:_unfit_URL "Category:CS1: unfit URL")
+*   [CS1 errors: generic name](/wiki/Category:CS1_errors:_generic_name "Category:CS1 errors: generic name")
+*   [Articles with short description](/wiki/Category:Articles_with_short_description "Category:Articles with short description")
+*   [Short description is different from Wikidata](/wiki/Category:Short_description_is_different_from_Wikidata "Category:Short description is different from Wikidata")
+*   [Wikipedia pending changes protected pages](/wiki/Category:Wikipedia_pending_changes_protected_pages "Category:Wikipedia pending changes protected pages")
+*   [Articles lacking reliable references from February 2018](/wiki/Category:Articles_lacking_reliable_references_from_February_2018 "Category:Articles lacking reliable references from February 2018")
+*   [All articles lacking reliable references](/wiki/Category:All_articles_lacking_reliable_references "Category:All articles lacking reliable references")
+*   [Articles needing cleanup from February 2018](/wiki/Category:Articles_needing_cleanup_from_February_2018 "Category:Articles needing cleanup from February 2018")
+*   [All pages needing cleanup](/wiki/Category:All_pages_needing_cleanup "Category:All pages needing cleanup")
+*   [Cleanup tagged articles with a reason field from February 2018](/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_February_2018 "Category:Cleanup tagged articles with a reason field from February 2018")
+*   [Wikipedia pages needing cleanup from February 2018](/wiki/Category:Wikipedia_pages_needing_cleanup_from_February_2018 "Category:Wikipedia pages needing cleanup from February 2018")
+*   [Articles with multiple maintenance issues](/wiki/Category:Articles_with_multiple_maintenance_issues "Category:Articles with multiple maintenance issues")
+
+*   This page was last edited on 25 January 2025, at 12:37 (UTC).
+*   Text is available under the [Creative Commons Attribution-ShareAlike 4.0 License](/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License "Wikipedia:Text of the Creative Commons Attribution-ShareAlike 4.0 International License"); additional terms may apply. By using this site, you agree to the [Terms of Use](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use "foundation:Special:MyLanguage/Policy:Terms of Use") and [Privacy Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy "foundation:Special:MyLanguage/Policy:Privacy policy"). Wikipedia® is a registered trademark of the [Wikimedia Foundation, Inc.](https://wikimediafoundation.org/), a non-profit organization.
+
+*   [Privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy)
+*   [About Wikipedia](/wiki/Wikipedia:About)
+*   [Disclaimers](/wiki/Wikipedia:General_disclaimer)
+*   [Contact Wikipedia](//en.wikipedia.org/wiki/Wikipedia:Contact_us)
+*   [Code of Conduct](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct)
+*   [Developers](https://developer.wikimedia.org)
+*   [Statistics](https://stats.wikimedia.org/#/en.wikipedia.org)
+*   [Cookie statement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement)
+*   [Mobile view](//en.m.wikipedia.org/w/index.php?title=List_of_Linux_distributions&mobileaction=toggle_view_mobile)
+
+*   [![Wikimedia Foundation](/static/images/footer/wikimedia-button.svg)](https://wikimediafoundation.org/)
+*   [![Powered by MediaWiki](/w/resources/assets/poweredby_mediawiki.svg)](https://www.mediawiki.org/)
+
+Search
+
+Search
+
+ Toggle the table of contents
+
+List of Linux distributions
+
+[](#)[](#)[](#)[](#)[](#)[](#)[](#)
+
+31 languages [Add topic](#)
+
+(RLQ=window.RLQ||\[\]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-6b6f6c8754-6588j","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"1.038","walltime":"1.228","ppvisitednodes":{"value":7170,"limit":1000000},"postexpandincludesize":{"value":313765,"limit":2097152},"templateargumentsize":{"value":12730,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":443981,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":\["100.00% 957.947 1 -total"," 58.25% 558.024 1 Template:Reflist"," 46.46% 445.059 112 Template:Cite\_web"," 11.18% 107.062 8 Template:Navbox"," 10.54% 100.985 1 Template:Multiple\_issues"," 9.61% 92.092 1 Template:Linux\_distributions"," 6.78% 64.949 1 Template:Short\_description"," 6.01% 57.572 2 Template:Ambox"," 5.04% 48.307 1 Template:Primary\_sources"," 4.46% 42.723 2 Template:Pagetype"\]},"scribunto":{"limitreport-timeusage":{"value":"0.633","limit":"10.000"},"limitreport-memusage":{"value":8127347,"limit":52428800},"limitreport-logs":"table#1 {\\n \[\\"size\\"\] = \\"tiny\\",\\n}\\ntable#1 {\\n \[\\"size\\"\] = \\"tiny\\",\\n}\\ntable#1 {\\n \[\\"size\\"\] = \\"tiny\\",\\n}\\n"},"cachereport":{"origin":"mw-web.codfw.main-6b6f6c8754-8s74r","timestamp":"20250125123917","ttl":2592000,"transientcontent":false}}});}); {"@context":"https:\\/\\/schema.org","@type":"Article","name":"List of Linux distributions","url":"https:\\/\\/en.wikipedia.org\\/wiki\\/List\_of\_Linux\_distributions","sameAs":"http:\\/\\/www.wikidata.org\\/entity\\/Q726392","mainEntity":"http:\\/\\/www.wikidata.org\\/entity\\/Q726392","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\\/\\/www.wikimedia.org\\/static\\/images\\/wmf-hor-googpub.png"}},"datePublished":"2004-04-26T22:44:48Z","headline":"Wikimedia list article"}

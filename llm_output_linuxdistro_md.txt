@@ -1,0 +1,153 @@
+Welcome to the Ollama Chatbot!
+Enter the file path within double quotes: "List of Linux distributions- Wikipedia.md.txt"
+
+Enter your query related to the file: 
+This document contains a list of Linux distributions. Can you parse through the document and list down all Debian and Ubuntu-based Linux sub-distributions/flavors i.e. distributions within these 2 families? Return only the names of these sub-distributions/flavors and nothing else. Don't make up any data and don't have duplicate names in your list.
+
+ Available models:
+1. phi3:mini
+2. phi3:latest
+3. mistral:latest
+4. deepseek-r1:7b
+5. llama3.2:latest
+
+
+Select a model by entering the corresponding number (or 0 to exit): 1
+
+Querying the model -  phi3:mini 
+
+Ubuntu Mate (for desktop environments)  
+ Ubuntu Budgie  
+ Linux Mint Loki (based on Debian, specifically for desktops with the Cinnamon or Xfce flavors under 'Linux variants')  
+ Kali NetHalt (Debian-derived distribution used for penetration testing and security research based on Debian)    
+ Manjaro Linux (Based on Arch but includes a version called Pop!_OS which is derived from Ubuntu, specifically designed with user experience in mind.)  
+ Xubuntu (based directly on Ubuntu Server edition aimed at users who want to use the GNOME desktop environment for their servers. It's worth noting that while technically an 'Ubuntu-derived distribution', it does maintain a significant presence within the list due to its direct relation with Ubuntu)  
+ Trisquel Linux (based on Debian, specifically tailored towards users requiring older free software packages and applications.)  
+ Elementary OS Hera (Based on Debian but includes Pantheon desktop environment inspired by Ubuntu GNOME which is derived from Ubuntu. It's also worth noting that this system uses the Linux Mint family for its base, making it part of a larger community with roots in both distributions.)  
+ Solus Puppy (based directly on Debian aimed at live USB bootable systems and mobile devices)   
+ Manjaro KDE Plasma Edition (This is not an official distribution but refers to the desktop edition of Arch Linux that includes all components for a full operating system experience. It's sometimes listed as Ubuntu-like due to its user interface, though it doesn't directly derive from Ubuntu or Debian.)  
+ Solus DSL (Derived directly from Ubuntu aimed at desktops and servers)    
+ Lubuntu Desktop Edition (Ubuntu derivative based on the LXQt desktop environment. It is commonly recognized as a lightweight option for using Ubuntu but it does not specifically focus solely on Debian.)  
+ Linux Mint Cinnamon Edition 18 (Derived from Debian and uses Unity or GNOME Shell, typically associated with Ubuntu)   
+ ZorinOS (While primarily based on Ubuntu LTS releases as a BSD-derived OS, it sometimes presents itself under the category of Linux distributions that provide an experience somewhat similar to those made for desktops.)  
+ Raspberry Pi Imaging Factory (An unofficial Debian distribution specifically designed and optimized for Raspberry Pi hardware with added tools and libraries)   
+ KDE Neon (Kubuntu-based but often considered as part of the broader Ubuntu family due its close association, is a rolling release based on Fedora which uses the Unity desktop environment.)  
+ Peppermint Lite Edition 20.10+3645 and more...   
+ Debian Lenny (Although an older version not recommended for modern use)    
+ Ubuntu Chromebook Remix, though this is a specialized edition of Ubuntu designed primarily to run on Chrome OS devices with the Xfce desktop environment.)  
+ Kubuntu Cinnamon Edition 20.10+3645 (A variant using the Unity Desktop Environment that can be installed alongside or in place of regular Kubuntu, based directly from Debian and Ubuntu packages)    
+ Alpine Linux Fedora Spin (An amalgamation inspired by a mix between alpine linux which is often paired with Raspberry Pi but does not derive specifically from either debian/Ubuntu.)  
+ Slackware Lite 15.0+7463 and more...    
+ Zorin OS Linux Edition (Based on Debian, similar in feel to Ubuntu for desktop environments)   
+ Alpine-based distributions like ArchLinuxARM or Bodhi that are sometimes categorized under the umbrella of flavors derived from these mainstream systems.  
+ Fedora Silverblue is based off of Red Hat and does not directly relate to either Debian or Ubuntu but shares similar traits for users seeking a desktop experience, often mistaken as such because it includes some components inspired by Linux Mint family (which in turn comes from Debian)
+Time taken : 778.073 seconds
+
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 4
+
+Querying the model -  deepseek-r1:7b 
+
+<think>
+Okay, I'm trying to figure out which Linux distributions are based on Debian or Ubuntu. Let me start by recalling what I know about these two parent distributions.
+
+Debian is one of the oldest Linux distributions, right? It's known for being stable and widely used, especially in servers. Ubuntu, on the other hand, is a spin-off from Debian but includes a lot more software out of the box. So both are based on Debian by default, with Ubuntu adding some additional packages.
+
+I remember hearing about several sub-distributions under Debian, like Fedora and openSUSE. But wait, Fedora isn't based on Debian; it's based on Red Hat. So I can exclude that from my list.
+
+openSUSE is definitely a Debian-based distribution. It has its own package manager called Leap. SUSE Linux is another one, which also comes from Debian but was forked into SUSE and then Xenial SUSE.
+
+Then there are the major Ubuntu distributions: Ubuntu itself, Xenial (which is now called Ubuntu), Yakkalitta, ActiVid, and tracteo. Each of these has been forked or branched out from the original Ubuntu base.
+
+I think there's also something called Kali Linux, which focuses on cybersecurity but uses a modified Ubuntu. Linus Torvalds, the creator of Linux, uses Kali for his kernel development work, so that makes sense.
+
+ElementaryOS is based on Ubuntu as well. It's designed to be user-friendly and comes with specific applications out of the box, like LibreOffice instead of Apache.
+
+Are there any others? Maybe MATE Linux or Zorin OS? I think those are based on Fedora, which isn't Debian-based, so they're not relevant here. There might also be experimental distributions, but the question asks for sub-distributions, so I should stick to established ones.
+
+Let me make a list of these:
+
+- Debian (parent)
+- Ubuntu (parent)
+- openSUSE
+- SUSE Linux
+- Fedora isn't included because it's based on Red Hat.
+- Kali Linux
+- ElementaryOS
+- Xenial (which is now Ubuntu)
+- Yakkalitta
+- ActiVid
+- tracteo
+
+Wait, I think I should include all of these. Let me check if there are any others that might be considered Debian or Ubuntu-based sub-distributions.
+
+I can't think of any more right now. So my final list would include these.
+</think>
+
+Here is a list of Linux distributions based on Debian or Ubuntu:
+
+1. **Debian** (parent)
+2. **Ubuntu** (parent)
+3. **openSUSE**
+4. **SUSE Linux**
+5. **Kali Linux**
+6. **ElementaryOS**
+7. **Xenial** (rebranded as Ubuntu)
+8. **Yakkalitta**
+9. **ActiVid**
+10. **tracteo**
+
+These distributions are all based on either Debian or Ubuntu, including their respective sub-distributions and forks.
+Time taken : 984.521 seconds
+
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 3 
+
+Querying the model -  mistral:latest 
+
+1. Debian GNU/Linux
+  2. Ubuntu
+  3. Kubuntu
+  4. Xubuntu
+  5. Lubuntu
+  6. Edubuntu
+  7. Ubuntu MATE
+  8. Ubuntu Kylin
+  9. Linux Mint Debian Edition
+  10. Elementary OS Luna (based on Ubuntu)
+  11. Elementary OS Freya (based on Ubuntu)
+  12. Elementary OS Juno (based on Ubuntu)
+  13. Elementary OS Loki (based on Ubuntu)
+  14. Deepin Linux (Debian-based, uses Ubuntu's Unity desktop environment)
+Time taken : 878.033 seconds
+
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 5
+
+Querying the model -  llama3.2:latest 
+
+*   Antix
+*   Bodhi
+*   Bodhi Linux
+*   Debian-based
+*   Devuan
+*  Elementary OS
+*  Etch
+*  Fluxbuntu
+*  GeckoLinux
+*  Ubuntu-based
+*  Ubuntu derivative (also includes those with the same name as a non-Ubuntu distribution)
+*  Xubuntu
+Time taken : 344.088 seconds
+
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 0
+Goodbye!

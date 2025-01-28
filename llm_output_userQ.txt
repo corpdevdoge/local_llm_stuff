@@ -1,0 +1,69 @@
+Welcome to the Ollama Chatbot!
+Available models:
+1. phi3:mini
+2. phi3:latest
+3. mistral:latest
+4. deepseek-r1:7b
+5. llama3.2:latest
+
+Select a model by entering the corresponding number (or 0 to exit): 1
+
+Enter your prompt for 'phi3:mini': what is 1+7?
+
+Querying the model...
+
+The sum of 1 and 7 is 8.
+Time taken (Python timing): 8.806 seconds
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 3
+
+Enter your prompt for 'mistral:latest': what is 1+7?
+
+Querying the model...
+
+1+7 equals 8.
+Time taken (Python timing): 34.205 seconds
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 4   
+
+Enter your prompt for 'deepseek-r1:7b': what is 1+7?
+
+Querying the model...
+
+<think>
+First, I recognize that the problem is asking for the sum of 1 and 7.
+
+Next, I add these two numbers together: 1 plus 7 equals 8.
+
+Finally, I present the result as the final answer.
+</think>
+
+Sure! Let's solve the problem step by step.
+
+**Question:** What is \(1 + 7\)?
+
+**Solution:**
+
+To find the sum of 1 and 7:
+
+\[
+1 + 7 = 8
+\]
+
+So, the final answer is \(\boxed{8}\).
+Time taken (Python timing): 99.323 seconds
+
+
+
+Select a model by entering the corresponding number (or 0 to exit): 5
+
+Enter your prompt for 'llama3.2:latest': what is 1+7?
+
+Querying the model...
+
+The answer to 1 + 7 is 8.
+Time taken (Python timing): 27.648 seconds
